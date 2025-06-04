@@ -3,16 +3,11 @@ import json
 import re
 
 def extract_options_from_cell(cell):
-    """Tách các phương án A–D từ ô cell trong bảng Word."""
-    full_text = ""
-    for para in cell.paragraphs:
-        full_text += para.text + "\n"
+    """Tách các phương án A–D từ ô cell trong bảng Word (bằng text gốc thay vì paragraphs)."""
+    full_text = cell.text.strip()
 
-    # Gộp và chuẩn hóa ký tự
-    full_text = re.sub(r'\s+', ' ', full_text).strip()
-
-    # Thêm newline trước A./B./C./D. để dễ tách (dù bị dính liền nhau)
-    full_text = re.sub(r'(?<!\n)\s*([A-Da-d])[).:\-]\s*', r'\n\1. ', full_text)
+    # Thêm newline trước mỗi nhãn A./B./C./D. để chuẩn hóa phân tách dòng
+    full_text = re.sub(r'\s*([A-Da-d])[).:\-]\s*', r'\n\1. ', full_text)
 
     # Tách từng dòng
     lines = full_text.split("\n")
@@ -45,8 +40,8 @@ def parse_questions_from_table(docx_path, output_json_path):
             try:
                 stt = int(cells[0].text.strip())
                 noidung = cells[1].text.strip()
-                phuongan_dict = extract_options_from_cell(cells[2])
-                dap_an = cells[3].text.strip().upper()
+                phuongan_dict = extract_options_from_cell(cells[3])  # Cột phương án ở vị trí 4 (index 3)
+                dap_an = cells[4].text.strip().upper()               # Cột đáp án ở vị trí 5 (index 4)
 
                 cau_hoi = {
                     "stt": stt,

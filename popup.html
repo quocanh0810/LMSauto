@@ -2,16 +2,64 @@
 <html lang="vi">
 <head>
   <meta charset="UTF-8" />
-  <title>LMSauto</title>
+  <title>LMS Auto</title>
   <style>
-    body { font-family: Arial, sans-serif; width: 200px; padding: 10px; }
-    input, button { width: 100%; margin-top: 10px; padding: 6px; }
+    @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+    body {
+      font-family: 'Roboto', sans-serif;
+      width: 250px;
+      padding: 20px;
+      background-color: #f9f9f9;
+      border-radius: 8px;
+    }
+
+    h2 {
+      margin: 0 0 10px 0;
+      font-size: 18px;
+      font-weight: bold;
+      color: #007BFF;
+      text-align: center;
+    }
+
+    h3 {
+      margin-bottom: 15px;
+      font-size: 15px;
+      color: #333;
+    }
+
+    input[type="number"] {
+      width: 100%;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      font-size: 14px;
+      box-sizing: border-box;
+    }
+
+    button {
+      width: 100%;
+      margin-top: 15px;
+      padding: 10px;
+      background-color: #007BFF;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      font-size: 15px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    button:hover {
+      background-color: #0056b3;
+    }
   </style>
 </head>
 <body>
+  <h2>LMS TMU Auto</h2>
   <h3>Nhập STT câu hỏi:</h3>
-  <input type="number" id="questionId" min="1" />
-  <button id="fillButton">Điền dữ liệu</button>
+  <input type="number" id="questionId" min="1"/>
+  <button id="fillButton">📥 Điền dữ liệu</button>
 
   <script src="popup.js"></script>
 </body>
