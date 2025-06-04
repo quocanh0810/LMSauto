@@ -1,0 +1,1379 @@
+[
+  {
+    "stt": 1,
+    "noidung": "Đâu không là công nghệ tiên tiến hiện nay phục vụ cho chuyển đổi số?",
+    "a": "Trí tuệ nhân tạo (AI)",
+    "b": "Internet vạn vật (IoT)",
+    "c": "Dữ liệu lớn (Big Dat a.",
+    "d": "Máy rút tiền tự động (ATM)",
+    "dapandung": "D"
+  },
+  {
+    "stt": 2,
+    "noidung": "Phát biểu nào sau đây là đúng nhất về chuyển đổi số?",
+    "a": "Quá trình tập trung vào việc biến đổi dữ liệu, tài liệu và các phương tiện truyền thông truyền thống thành định dạng số.",
+    "b": "Quá trình toàn diện và chiến lược hóa các hoạt động kinh doanh, tổ chức và quy trình bằng cách sử dụng công nghệ, kỹ thuật số",
+    "c": "Quá trình sản xuất, kinh doanh ứng dụng công nghệ thông tin.",
+    "d": "Quá trình chuyển đổi hình thức thể hiện từ dạng vật lý, thủ công sang dạng kỹ thuật số.",
+    "dapandung": "B"
+  },
+  {
+    "stt": 3,
+    "noidung": "Chuyển đổi số phát triển thông qua 3 thành phần đó là những thành phần nào?",
+    "a": "Chính quyền số, Kinh tế số, Công dân số",
+    "b": "Chính quyền số, Kinh tế số, Xã hội số",
+    "c": "Công nghệ số, Công dân số, Xã hội số",
+    "d": "Cộng nghệ số, Công dân số, Xã hội số",
+    "dapandung": "A"
+  },
+  {
+    "stt": 4,
+    "noidung": "Chuyển đổi số không chỉ giúp tăng năng suất, giảm chi phí mà còn mang lại lợi ích nào sau đây?",
+    "a": "Giữ nguyên các giá trị truyền thống mà không cần thay đổi",
+    "b": "Mở ra không gian phát triển mới và tạo ra các giá trị mới",
+    "c": "Giảm sự phụ thuộc vào công nghệ trong sản xuất",
+    "d": "Chỉ áp dụng cho các doanh nghiệp lớn, không ảnh hưởng đến cá nhân",
+    "dapandung": "B"
+  },
+  {
+    "stt": 5,
+    "noidung": "Theo Bộ Thông tin và Truyền thông, chuyển đổi số là quá trình thay đổi gì?",
+    "a": "Chỉ thay đổi trong lĩnh vực công nghệ thông tin",
+    "b": "Chỉ thay đổi phương thức quản lý của tổ chức",
+    "c": "Thay đổi hệ thống tài chính doanh nghiệp",
+    "d": "Thay đổi cách sống, cách làm việc và phương thức sản xuất dựa trên các công nghệ số",
+    "dapandung": "D"
+  },
+  {
+    "stt": 6,
+    "noidung": "Chuyển đổi số giúp doanh nghiệp đạt được những lợi ích nào sau đây?",
+    "a": "Tăng năng suất, giảm chi phí",
+    "b": "Giảm số lượng khách hàng",
+    "c": "Giảm sự tương tác với công nghệ",
+    "d": "Tăng chi phí vận hành",
+    "dapandung": "A"
+  },
+  {
+    "stt": 7,
+    "noidung": "Khái niệm nào dưới đây mô tả đúng về số hóa (digitization)?",
+    "a": "Quá trình chuyển đổi toàn diện và chiến lược các hoạt động kinh doanh",
+    "b": "Áp dụng trí tuệ nhân tạo để thay đổi chuỗi cung ứng",
+    "c": "Quá trình chuyển đổi thông tin từ dạng vật lý thành dạng số",
+    "d": "Thay đổi cách thức quản lý doanh nghiệp thông qua công nghệ số",
+    "dapandung": "C"
+  },
+  {
+    "stt": 8,
+    "noidung": "Trong các ứng dụng sau đây, ứng dụng nào là minh họa cho đặc điểm chính của số hóa (digitization)?",
+    "a": "Sử dụng trí tuệ nhân tạo (AI) để tối ưu hóa chuỗi cung ứng",
+    "b": "Chuyển đổi tài liệu giấy thành tệp .PDF",
+    "c": "Áp dụng công nghệ blockchain để bảo mật giao dịch",
+    "d": "Tích hợp hệ thống lưu trữ đám mây vào quy trình kinh doanh",
+    "dapandung": "B"
+  },
+  {
+    "stt": 9,
+    "noidung": "Tác động chính của số hóa là gì?",
+    "a": "Tác động tới việc lưu trữ, xử lý và truyền tải thông tin",
+    "b": "Tác động tới cách thức làm việc, tổ chức và quản lý hoạt động kinh doanh",
+    "c": "Tăng cường sự linh hoạt trong quản lý doanh nghiệp",
+    "d": "Mở rộng thị trường và tìm kiếm nguồn doanh thu mới",
+    "dapandung": "A"
+  },
+  {
+    "stt": 10,
+    "noidung": "Chức năng chính của chuyển đổi số (Digital Transformation) là gì?",
+    "a": "Tập trung vào việc biến đổi dữ liệu thành định dạng số",
+    "b": "Thay đổi cách thức hoạt động, cải thiện hiệu suất và tạo ra giá trị mới thông qua công nghệ số",
+    "c": "Lưu trữ và quản lý thông tin hiệu quả hơn",
+    "d": "Chuyển đổi tài liệu giấy thành định dạng số như PDF",
+    "dapandung": "B"
+  },
+  {
+    "stt": 11,
+    "noidung": "Bước đầu tiên trong quá trình chuyển đổi số của doanh nghiệp là gì?",
+    "a": "Đào tạo nhân viên về công nghệ số",
+    "b": "Xây dựng kế hoạch thực hiện",
+    "c": "Xác định ý nghĩa của chuyển đổi số đối với tổ chức",
+    "d": "Đo lường và điều chỉnh chiến lược",
+    "dapandung": "C"
+  },
+  {
+    "stt": 12,
+    "noidung": "Khi đánh giá hiện trạng của doanh nghiệp trước chuyển đổi số, doanh nghiệp cần xem xét những yếu tố nào?",
+    "a": "Khách hàng, chi phí, tài nguyên và mô hình kinh doanh",
+    "b": "Khách quan, công nghệ, mô hình kinh doanh và con người",
+    "c": "Sản phẩm, quy trình, nhân sự và dữ liệu",
+    "d": "Doanh thu, lợi nhuận, khách hàng và thị phần",
+    "dapandung": "B"
+  },
+  {
+    "stt": 13,
+    "noidung": "Mục tiêu của việc đo lường và điều chỉnh trong quá trình chuyển đổi số là gì?",
+    "a": "Tìm kiếm nguồn tài chính cho dự án chuyển đổi số",
+    "b": "Tạo môi trường số cho doanh nghiệp",
+    "c": "Đánh giá mức độ hoàn thành và điều chỉnh kế hoạch nếu cần",
+    "d": "Thuê các dịch vụ chuyển đổi số bên ngoài",
+    "dapandung": "C"
+  },
+  {
+    "stt": 14,
+    "noidung": "Trong quá trình chuyển đổi số, tại sao doanh nghiệp cần đào tạo nhân viên?",
+    "a": "Để cải thiện kỹ năng giao tiếp",
+    "b": "Để phù hợp với công nghệ và quy trình mới, hoặc tuyển dụng nhân sự có chuyên môn",
+    "c": "Để giảm chi phí hoạt động",
+    "d": "Để tăng tốc độ làm việc",
+    "dapandung": "B"
+  },
+  {
+    "stt": 15,
+    "noidung": "Mục tiêu của việc tạo môi trường số trong doanh nghiệp là gì?",
+    "a": "Đơn giản hóa các quy trình giấy tờ",
+    "b": "Chuyển đổi số thông tin và hệ thống quy trình",
+    "c": "Giảm chi phí vận hành",
+    "d": "Tăng số lượng nhân viên",
+    "dapandung": "B"
+  },
+  {
+    "stt": 16,
+    "noidung": "Bước nào giúp doanh nghiệp đánh giá tiến độ và điều chỉnh chiến lược chuyển đổi số?",
+    "a": "Xây dựng chiến lược",
+    "b": "Đào tạo nhân viên",
+    "c": "Đo lường và điều chỉnh",
+    "d": "Tạo môi trường số",
+    "dapandung": "C"
+  },
+  {
+    "stt": 17,
+    "noidung": "Chuyển đổi số trong lĩnh vực du lịch giúp doanh nghiệp làm gì?",
+    "a": "Tối ưu hóa quy trình vận chuyển",
+    "b": "Xây dựng các phần mềm quản lý",
+    "c": "Cung cấp dịch vụ du lịch và tìm kiếm khách hàng",
+    "d": "Đào tạo nhân viên về công nghệ số",
+    "dapandung": "C"
+  },
+  {
+    "stt": 18,
+    "noidung": "Lĩnh vực nào dưới đây không phải là ví dụ về ứng dụng chuyển đổi số trong tài chính - ngân hàng?",
+    "a": "Thanh toán trực tuyến và mobile banking",
+    "b": "Phân tích dữ liệu khách hàng để cải thiện dịch vụ tài chính",
+    "c": "Cung cấp dịch vụ du lịch",
+    "d": "Sử dụng công nghệ blockchain để bảo mật giao dịch",
+    "dapandung": "C"
+  },
+  {
+    "stt": 19,
+    "noidung": "Chuyển đổi số trong lĩnh vực sản xuất công nghiệp chủ yếu tập trung vào điều gì?",
+    "a": "Cải thiện quy trình học tập cá thể hóa",
+    "b": "Tự động hóa quy trình sản xuất và quản lý hiệu quả nguồn tài nguyên",
+    "c": "Phát triển các hình thức thanh toán",
+    "d": "Xây dựng hệ thống quản lý trực tuyến",
+    "dapandung": "B"
+  },
+  {
+    "stt": 20,
+    "noidung": "Theo Bộ Thông tin và Truyền thong, trí tuệ nhân tạo (AI) được tạo ra với mục đích chính là gì?",
+    "a": "Tạo ra máy móc có khả năng tự phát triển các ứng dụng mới",
+    "b": "Giúp máy tính thay thế một số hoạt động của con người để hỗ trợ giải quyết các vấn đề trong cuộc sống",
+    "c": "Giúp máy tính tự học hỏi và phát triển mà không cần sự can thiệp của con người.",
+    "d": "Giảm bớt sự phụ thuộc của con người vào công nghệ.",
+    "dapandung": "B"
+  },
+  {
+    "stt": 21,
+    "noidung": "Trí tuệ nhân tạo (AI) thuộc lĩnh vực nào của khoa học?",
+    "a": "Toán học",
+    "b": "Sinh học",
+    "c": "Khoa học máy tính",
+    "d": "Vật lý",
+    "dapandung": "C"
+  },
+  {
+    "stt": 22,
+    "noidung": "Điều gì giúp AI có thể thực hiện các công việc yêu cầu trí thông minh của con người?",
+    "a": "Sử dụng mô hình toán học",
+    "b": "Áp dụng mô hình máy tính, kỹ thuật và công nghệ liên quan",
+    "c": "Tăng cường năng lượng xử lý của máy tính",
+    "d": "Phát triển các thuật toán đơn giản",
+    "dapandung": "B"
+  },
+  {
+    "stt": 22,
+    "noidung": "Một trong những năng lực mà AI cố gắng mô phỏng từ con người là gì?",
+    "a": "Khả năng tính toán",
+    "b": "Khả năng tư duy và ra quyết định",
+    "c": "Khả năng chơi thể thao",
+    "d": "Khả năng cảm nhận môi trường xung quanh",
+    "dapandung": "B"
+  },
+  {
+    "stt": 23,
+    "noidung": "Trí tuệ nhân tạo (AI) là gì?",
+    "a": "Một ngành nghiên cứu về cách làm cho máy móc hoạt động như các thiết bị cơ khí.",
+    "b": "Một lĩnh vực thuộc khoa học máy tính, tập trung vào việc tạo ra máy móc có khả năng trí tuệ tương tự con người.",
+    "c": "Một công nghệ mới chỉ sử dụng để tăng tốc độ xử lý của các máy tính.",
+    "d": "Một phần mềm quản lý dữ liệu giúp người dùng lưu trữ thông tin hiệu quả.",
+    "dapandung": "B"
+  },
+  {
+    "stt": 24,
+    "noidung": "Theo Bộ Thông tin và Truyền thông, trí tuệ nhân tạo (AI) là nỗ lực của con người nhằm mục đích gì?",
+    "a": "Tạo ra phần mềm giải trí mới cho người dùng.",
+    "b": "Cải thiện tốc độ kết nối mạng và truyền dữ liệu.",
+    "c": "Làm cho máy móc có các năng lực trí tuệ của con người.",
+    "d": "Phát triển công nghệ truyền thông và mạng xã hội.",
+    "dapandung": "C"
+  },
+  {
+    "stt": 25,
+    "noidung": "Để thực hiện các công việc yêu cầu trí thông minh của con người, trí tuệ nhân tạo (AI) sử dụng các yếu tố gì?",
+    "a": "Chỉ các phần mềm đặc biệt không cần đến mô hình máy tính.",
+    "b": "Các mô hình máy tính, kỹ thuật và công nghệ liên quan.",
+    "c": "Các thiết bị phần cứng truyền thống mà không cần đến phần mềm.",
+    "d": "Các phương pháp học tập cơ bản mà không áp dụng công nghệ tiên tiến.",
+    "dapandung": "B"
+  },
+  {
+    "stt": 26,
+    "noidung": "Trong lĩnh vực trí tuệ nhân tạo (AI), yếu tố nào không phải là mục tiêu chính của việc tạo ra máy móc và hệ thống thông minh?",
+    "a": "Thực hiện các công việc yêu cầu trí thông minh của con người.",
+    "b": "Thay thế hoàn toàn các hoạt động của con người trong mọi lĩnh vự c.",
+    "c": "Hỗ trợ con người giải quyết các vấn đề trong cuộc sống.",
+    "d": "Tạo ra các mô hình máy tính, kỹ thuật và công nghệ liên quan.",
+    "dapandung": "B"
+  },
+  {
+    "stt": 27,
+    "noidung": "Trí tuệ nhân tạo (AI) được con người tạo ra nhằm mục đích chính nào sau đây?",
+    "a": "Để thay thế hoàn toàn trí thông minh con người trong mọi lĩnh vực công việ c.",
+    "b": "Để nâng cao khả năng xử lý thông tin của máy tính và giảm bớt sự phụ thuộc vào con người trong một số hoạt động.",
+    "c": "Để tạo ra các thiết bị phần cứng có khả năng hoạt động nhanh hơn.",
+    "d": "Để phát triển các ứng dụng giải trí và truyền thông xã hội.",
+    "dapandung": "B"
+  },
+  {
+    "stt": 28,
+    "noidung": "Một trong những ứng dụng của trí tuệ nhân tạo (AI) là gì?",
+    "a": "Tăng cường độ bền của vật liệu xây dựng.",
+    "b": "Cải thiện khả năng tự động hoá trong các hệ thống máy tính và thiết bị.",
+    "c": "Phát triển công nghệ quang học để truyền tải dữ liệu nhanh hơn.",
+    "d": "Tinh chỉnh các thuật toán phần cứng để giảm thiểu lỗi phần mềm.",
+    "dapandung": "B"
+  },
+  {
+    "stt": 29,
+    "noidung": "Theo định nghĩa của trí tuệ nhân tạo (AI), các mô hình máy tính và kỹ thuật nào được sử dụng để:",
+    "a": "Phát triển các công nghệ truyền thông mới.",
+    "b": "Nâng cao khả năng tự động hóa và giải quyết vấn đề của máy mó c.",
+    "c": "Tăng cường khả năng vận hành của các thiết bị điện tử tiêu dùng.",
+    "d": "Tạo ra phần mềm giải trí cho người dùng.",
+    "dapandung": "B"
+  },
+  {
+    "stt": 30,
+    "noidung": "Trong ba nhóm chính của trí tuệ nhân tạo (AI), nhóm nào có khả năng thực hiện một nhiệm vụ cụ thể như nhận diện khuôn mặt hay chơi cờ vua, và không thể thực hiện những công việc mà nó chưa được “huấn luyện”?",
+    "a": "AI tổng quát (AGI)",
+    "b": "Siêu AI",
+    "c": "AI hẹp (Weak AI)",
+    "d": "AI học máy",
+    "dapandung": "C"
+  },
+  {
+    "stt": 31,
+    "noidung": "AI tổng quát (AGI) khác biệt với AI hẹp (Weak AI) ở điểm nào?",
+    "a": "AI tổng quát có thể thực hiện một nhiệm vụ cụ thể, trong khi AI hẹp có khả năng giải quyết nhiều nhiệm vụ độc lập.",
+    "b": "AI tổng quát có trí thông minh sánh ngang với con người và có khả năng tự nhận thức, trong khi AI hẹp chỉ thực hiện các nhiệm vụ cụ thể mà nó đã được huấn luyện.",
+    "c": "AI tổng quát chủ yếu được sử dụng trong các thiết bị tiêu dùng, còn AI hẹp được dùng trong các ứng dụng giải trí.",
+    "d": "AI tổng quát chỉ có thể phân tích dữ liệu, trong khi AI hẹp có khả năng học từ kinh nghiệm.",
+    "dapandung": "B"
+  },
+  {
+    "stt": 32,
+    "noidung": "Siêu AI hiện tại có khả năng gì so với trí thông minh của con người?",
+    "a": "Siêu AI có thể thực hiện mọi nhiệm vụ mà không cần huấn luyện.",
+    "b": "Siêu AI có trí nhớ tốt hơn, xử lý và phân tích dữ liệu nhanh hơn, nhưng vẫn chưa được phát triển.",
+    "c": "Siêu AI có khả năng tự dạy cho mình các nhiệm vụ mới mà không cần huấn luyện.",
+    "d": "Siêu AI có khả năng tương tác với con người một cách tự nhiên và thông minh.",
+    "dapandung": "B"
+  },
+  {
+    "stt": 33,
+    "noidung": "Trong các nhóm AI, nhóm nào hiện tại chưa thể được tạo ra và chủ yếu xuất hiện trong các tác phẩm viễn tưởng?",
+    "a": "AI hẹp (Weak AI)",
+    "b": "AI tổng quát (AGI)",
+    "c": "Siêu AI",
+    "d": "AI học máy",
+    "dapandung": "C"
+  },
+  {
+    "stt": 34,
+    "noidung": "Đặc điểm nổi bật của AI hẹp (Weak AI) là gì?",
+    "a": "Có khả năng tự nhận thức và học hỏi các nhiệm vụ mới.",
+    "b": "Thực hiện một hoặc một số nhiệm vụ cụ thể mà nó đã được huấn luyện.",
+    "c": "Có trí thông minh sánh ngang với con người và có thể giải quyết các vấn đề phức tạp.",
+    "d": "Phát triển khả năng và chiến lược học hỏi từ kinh nghiệm để tự dạy cho mình.",
+    "dapandung": "B"
+  },
+  {
+    "stt": 35,
+    "noidung": "Đặc điểm nào không thuộc về AI tổng quát (AGI)?",
+    "a": "Có khả năng giải quyết các vấn đề và học hỏi giống như con người.",
+    "b": "Được thiết kế để thực hiện các nhiệm vụ cụ thể mà nó đã được huấn luyện.",
+    "c": "Có khả năng tự đưa ra quyết định mà không cần phải huấn luyện trướ c.",
+    "d": "Có khả năng lập kế hoạch và tự nhận thứ c.",
+    "dapandung": "B"
+  },
+  {
+    "stt": 36,
+    "noidung": "AI hẹp (Weak AI) có thể:",
+    "a": "Tự học và thích nghi với các nhiệm vụ hoàn toàn mới mà không cần huấn luyện.",
+    "b": "Chỉ thực hiện các nhiệm vụ mà nó đã được lập trình hoặc huấn luyện.",
+    "c": "Có trí thông minh sánh ngang với con người và có khả năng học từ kinh nghiệm.",
+    "d": "Phát triển khả năng tự nhận thức và phân tích dữ liệu độc lập",
+    "dapandung": "B"
+  },
+  {
+    "stt": 37,
+    "noidung": "Siêu AI có thể?",
+    "a": "Xử lý và phân tích dữ liệu nhanh hơn con người và đưa ra quyết định tốt hơn.",
+    "b": "Thực hiện một nhiệm vụ cụ thể mà nó đã được huấn luyện như AI hẹp.",
+    "c": "Được sử dụng rộng rãi trong các thiết bị tiêu dùng hiện nay.",
+    "d": "Được phát triển để giải quyết các nhiệm vụ phức tạp mà AI hẹp không thể thực hiện.",
+    "dapandung": "A"
+  },
+  {
+    "stt": 38,
+    "noidung": "Trong các phát biểu sau đây, phát biểu nào đúng khi nói những việc AI tổng quát (AGI) có thể làm mà AI hẹp (Weak AI) không làm được?",
+    "a": "Chỉ thực hiện các nhiệm vụ cụ thể mà nó đã được huấn luyện.",
+    "b": "Tự học hỏi và giải quyết các vấn đề mới mà không cần huấn luyện từ trướ c.",
+    "c": "Đưa ra quyết định nhanh hơn và chính xác hơn so với con người.",
+    "d": "Thay thế hoàn toàn trí thông minh con người trong mọi lĩnh vực công việ c.",
+    "dapandung": "B"
+  },
+  {
+    "stt": 39,
+    "noidung": "Tại thời điểm hiện tại, việc phát triển siêu AI gặp phải thách thức gì lớn nhất?",
+    "a": "Tạo ra các mô hình máy tính mới để nâng cao hiệu suất.",
+    "b": "Đạt được khả năng tự nhận thức và trí nhớ vượt trội so với con người.",
+    "c": "Đảm bảo rằng nó có thể thực hiện tất cả các nhiệm vụ mà không cần huấn luyện.",
+    "d": "Cung cấp các ứng dụng giải trí và giáo dục cho người dùng.",
+    "dapandung": "B"
+  },
+  {
+    "stt": 40,
+    "noidung": "AI hẹp (Weak AI) có thể thay thế con người trong các công việc cụ thể bởi vì:",
+    "a": "Nó có khả năng học và thích nghi với tất cả các loại nhiệm vụ mà không cần huấn luyện.",
+    "b": "Nó có thể xử lý thông tin và phân tích dữ liệu theo cách mà nó đã được lập trình.",
+    "c": "Nó có trí thông minh sánh ngang với con người và tự nhận thứ c.",
+    "d": "Nó có khả năng phát triển các chiến lược mới mà không cần sự can thiệp của con người.",
+    "dapandung": "B"
+  },
+  {
+    "stt": 41,
+    "noidung": "Trí tuệ nhân tạo tổng quát (AGI) được mô tả là:",
+    "a": "Chỉ có khả năng thực hiện các nhiệm vụ cụ thể mà không cần huấn luyện.",
+    "b": "Có khả năng giải quyết nhiều nhiệm vụ khác nhau và tự học hỏi các chiến lược mới.",
+    "c": "Có trí thông minh thấp hơn so với AI hẹp và chỉ có thể thực hiện một số nhiệm vụ cơ bản.",
+    "d": "Được thiết kế để thực hiện các nhiệm vụ giải trí và truyền thông xã hội.",
+    "dapandung": "B"
+  },
+  {
+    "stt": 42,
+    "noidung": "Trong số các nhóm trí tuệ nhân tạo, nhóm nào có thể học từ kinh nghiệm và tự dạy cho mình các chiến lược mới?",
+    "a": "AI hẹp (Weak AI)",
+    "b": "AI tổng quát (AGI)",
+    "c": "Siêu AI",
+    "d": "AI học máy",
+    "dapandung": "B"
+  },
+  {
+    "stt": 43,
+    "noidung": "Mục tiêu phát triển của Siêu AI là:",
+    "a": "Tạo ra hệ thống có khả năng tự nhận thức và trí nhớ tốt hơn con người.",
+    "b": "Tăng cường khả năng của AI hẹp trong các nhiệm vụ cụ thể.",
+    "c": "Phát triển các công nghệ truyền thông và giải trí mới.",
+    "d": "Đạt được trí thông minh cơ bản và tự động hóa các công việ c.",
+    "dapandung": "A"
+  },
+  {
+    "stt": 44,
+    "noidung": "AI hẹp (Weak AI) hiện nay chủ yếu được sử dụng trong các ứng dụng nào?",
+    "a": "Các nhiệm vụ phức tạp yêu cầu trí thông minh sánh ngang con người.",
+    "b": "Các công việc cụ thể như nhận diện khuôn mặt, dịch ngôn ngữ, và chơi cờ vu a.",
+    "c": "Tự học và phát triển các chiến lược mới mà không cần huấn luyện.",
+    "d": "Các hệ thống có khả năng tự dạy và giải quyết vấn đề tương tự như con người.",
+    "dapandung": "B"
+  },
+  {
+    "stt": 45,
+    "noidung": "Điều nào sau đây đúng về AI tổng quát (AGI) so với AI hẹp (Weak AI)?",
+    "a": "AI tổng quát có thể thực hiện tất cả các nhiệm vụ mà AI hẹp có thể thực hiện.",
+    "b": "AI tổng quát có thể tự học và giải quyết các vấn đề mới mà không cần huấn luyện trướ c.",
+    "c": "AI tổng quát chỉ có thể thực hiện một số nhiệm vụ cụ thể mà nó đã được lập trình.",
+    "d": "AI tổng quát không thể học hỏi các nhiệm vụ mới và chỉ thực hiện các công việc cụ thể.",
+    "dapandung": "B"
+  },
+  {
+    "stt": 47,
+    "noidung": "Mục tiêu phát triển AI tổng quát (AGI) bao gồm:",
+    "a": "Tạo ra hệ thống chỉ thực hiện các nhiệm vụ cụ thể mà không cần huấn luyện.",
+    "b": "Phát triển trí thông minh có thể học và giải quyết vấn đề giống như con người.",
+    "c": "Cải thiện khả năng của AI hẹp trong các nhiệm vụ cụ thể.",
+    "d": "Tạo ra phần mềm giải trí có trí thông minh cơ bản.",
+    "dapandung": "B"
+  },
+  {
+    "stt": 48,
+    "noidung": "Phát biểu nào sau đây không thuộc về AI hẹp (Weak AI)?",
+    "a": "Có thể thực hiện một nhiệm vụ cụ thể như nhận diện khuôn mặt hoặc dịch ngôn ngữ.",
+    "b": "Chỉ có khả năng hoạt động trong khuôn khổ những gì nó đã được huấn luyện.",
+    "c": "Có khả năng tự học và dạy cho mình các nhiệm vụ mới mà không cần huấn luyện.",
+    "d": "Thực hiện các nhiệm vụ cụ thể mà không có khả năng giải quyết các vấn đề mới.",
+    "dapandung": "C"
+  },
+  {
+    "stt": 49,
+    "noidung": "Siêu AI là một khái niệm:",
+    "a": "Đã được phát triển và sử dụng trong thực tế hiện nay.",
+    "b": "Được mô tả trong các bộ phim và sách viễn tưởng với trí thông minh vượt trội hơn con người.",
+    "c": "Chỉ có khả năng thực hiện các nhiệm vụ cụ thể mà nó đã được huấn luyện.",
+    "d": "Có khả năng học hỏi các nhiệm vụ mới như AI tổng quát.",
+    "dapandung": "B"
+  },
+  {
+    "stt": 50,
+    "noidung": "Trong lĩnh vực y tế, trí tuệ nhân tạo (AI) có thể giúp thực hiện điều gì?",
+    "a": "Đưa ra chẩn đoán bệnh chính xác chỉ dựa trên hình ảnh y học như X-quang và MRI.",
+    "b": "Phát triển thuốc mới và cá nhân hóa liệu pháp điều trị.",
+    "c": "Tạo ra chương trình học tập tùy chỉnh cho bác sỹ.",
+    "d": "Tự động hóa các quy trình trong ngành y tế",
+    "dapandung": "B"
+  },
+  {
+    "stt": 51,
+    "noidung": "AI có thể hỗ trợ trong giáo dục bằng cách nào?",
+    "a": "Phân tích dữ liệu lớn để dự đoán xu hướng cho ngành giáo dục",
+    "b": "Tạo ra các chương trình học tập cá nhân hóa và cung cấp trợ giảng ảo.",
+    "c": "Tự động hóa các công việc lặp đi lặp lại trong học tập.",
+    "d": "Phát hiện gian lận và quản lý người học trong các bài kiểm tra",
+    "dapandung": "B"
+  },
+  {
+    "stt": 52,
+    "noidung": "Trong lĩnh vực giao thông, AI có thể được áp dụng để:",
+    "a": "Giúp người lái xe đưa ra quyết định khi gặp mọi tình huống bất ngờ",
+    "b": "Phát triển xe tự lái và quản lý lưu lượng giao thông.",
+    "c": "Cải thiện trải nghiệm cho người lái xe qua màn hình Chatbot AI.",
+    "d": "Tạo ra các giải pháp tối ưu khi xe gặp vấn đề máy móc",
+    "dapandung": "B"
+  },
+  {
+    "stt": 53,
+    "noidung": "Khi sử dụng các mô hình AI, người dùng cần lưu ý điều gì?",
+    "a": "AI luôn hoàn hảo và không cần kiểm tra thường xuyên.",
+    "b": "AI có thể có thành kiến, sai sót hoặc hạn chế, cần kiểm tra và theo dõi thường xuyên.",
+    "c": "AI chỉ cần được cập nhật một lần và sẽ không bị lỗi thời.",
+    "d": "AI không có ảnh hưởng đến tính chính xác và công bằng của dữ liệu.",
+    "dapandung": "B"
+  },
+  {
+    "stt": 54,
+    "noidung": "Một hạn chế của các mô hình AI hiện tại là:",
+    "a": "Chúng luôn chính xác và không cần phải cập nhật thường xuyên.",
+    "b": "Chúng có thể có thành kiến, sai sót hoặc hạn chế và cần được kiểm tra và theo dõi thường xuyên.",
+    "c": "Chúng có thể tự động học và phát triển mà không cần sự can thiệp của con người.",
+    "d": "Chúng không có ảnh hưởng đến tính chính xác và công bằng của dữ liệu.",
+    "dapandung": "B"
+  },
+  {
+    "stt": 55,
+    "noidung": "Để tối ưu hóa việc sử dụng AI trong các lĩnh vực khác nhau, người dùng cần:",
+    "a": "Chỉ sử dụng AI trong các nhiệm vụ cụ thể mà nó đã được huấn luyện.",
+    "b": "Đảm bảo rằng các mô hình AI không cần phải kiểm tra hoặc theo dõi thường xuyên.",
+    "c": "Theo dõi và kiểm tra thường xuyên, cập nhật để tránh sự xuống cấp và lỗi thời.",
+    "d": "Đảm bảo AI luôn chính xác mà không cần phải làm gì thêm.",
+    "dapandung": "C"
+  },
+  {
+    "stt": 56,
+    "noidung": "Để tối ưu hóa việc sử dụng AI trong các lĩnh vực khác nhau, người dùng cần:",
+    "a": "Chỉ sử dụng AI trong các nhiệm vụ cụ thể mà nó đã được huấn luyện.",
+    "b": "Đảm bảo rằng các mô hình AI không cần phải kiểm tra hoặc theo dõi thường xuyên.",
+    "c": "Theo dõi và kiểm tra thường xuyên, cập nhật để tránh sự xuống cấp và lỗi thời.",
+    "d": "Đảm bảo AI luôn chính xác mà không cần phải làm gì thêm.",
+    "dapandung": "C"
+  },
+  {
+    "stt": 57,
+    "noidung": "Trong việc sử dụng AI, người dùng cần chú ý gì để đảm bảo chất lượng và độ tin cậy?",
+    "a": "Chỉ sử dụng AI cho các nhiệm vụ đơn giản mà không cần kiểm tr a.",
+    "b": "Đảm bảo rằng các mô hình AI được cập nhật thường xuyên và kiểm tra kỹ lưỡng.",
+    "c": "Tin tưởng hoàn toàn vào các mô hình AI mà không cần theo dõi.",
+    "d": "Chỉ sử dụng AI trong các công việc mà nó đã được lập trình sẵn.",
+    "dapandung": "B"
+  },
+  {
+    "stt": 58,
+    "noidung": "Để đảm bảo rằng các mô hình AI hoạt động hiệu quả và công bằng, người dùng nên:",
+    "a": "Tin tưởng vào các kết quả của AI mà không cần kiểm tr a.",
+    "b": "Đánh giá thường xuyên và kiểm tra các mô hình AI để phát hiện các thành kiến và sai sót.",
+    "c": "Chỉ sử dụng AI cho các nhiệm vụ đơn giản mà không cần theo dõi.",
+    "d": "Cập nhật các mô hình AI một lần và không cần kiểm tra thêm.",
+    "dapandung": "B"
+  },
+  {
+    "stt": 59,
+    "noidung": "Công cụ nào dưới đây có thể giúp phát hiện đạo văn trong văn bản tiếng Anh?",
+    "a": "Notion",
+    "b": "Grammarly",
+    "c": "Copyscape",
+    "d": "Fotor",
+    "dapandung": "C"
+  },
+  {
+    "stt": 60,
+    "noidung": "Công cụ nào giúp sinh viên thiết kế đồ họa và tạo nội dung trực quan?",
+    "a": "Fotor",
+    "b": "Grammarly",
+    "c": "OpenAI Playground",
+    "d": "Canva",
+    "dapandung": "D"
+  },
+  {
+    "stt": 61,
+    "noidung": "Công cụ nào cung cấp không gian làm việc toàn diện cho sinh viên, giúp tổ chức và quản lý thông tin?",
+    "a": "Canva",
+    "b": "Chat GPT-3/GPT-4",
+    "c": "Notion",
+    "d": "Grammarly",
+    "dapandung": "C"
+  },
+  {
+    "stt": 62,
+    "noidung": "Công cụ nào dưới đây có khả năng giúp sinh viên viết nội dung chất lượng bằng cách cung cấp gợi ý ngữ pháp và chính tả?",
+    "a": "OpenAI Playground",
+    "b": "Grammarly",
+    "c": "Copyscape",
+    "d": "Fotor",
+    "dapandung": "B"
+  },
+  {
+    "stt": 63,
+    "noidung": "Công cụ nào dưới đây giúp sinh viên phát hiện và tránh sự sao chép văn bản từ các nguồn khác?",
+    "a": "Fotor",
+    "b": "Notion",
+    "c": "Grammarly",
+    "d": "Copyscape",
+    "dapandung": "D"
+  },
+  {
+    "stt": 64,
+    "noidung": "Các thành phần cốt lõi của AI là gì?",
+    "a": "Dữ liệu, con người, phần cứng, phần mềm, quy trình",
+    "b": "Dữ liệu, con người, phần cứng, phần mềm",
+    "c": "Dữ liệu, con người, phần cứng",
+    "d": "Dữ liệu, con người, quy trình",
+    "dapandung": "A"
+  },
+  {
+    "stt": 65,
+    "noidung": "Hãy chọn phương án đúng nhất về khái niệm Học máy?",
+    "a": "Là lĩnh vực của trí tuệ nhân tạo liên quan đến việc xây dựng các kỹ thuật cho phép các hệ thống học tự động từ dữ liệu để giải quyết vấn đề cụ thể",
+    "b": "Là lĩnh vực giúp tự động hóa các công việc trong sản xuất, kinh doanh bằng máy tính điện tử",
+    "c": "Là kỹ thuật tập trung vào việc phân tích dữ liệu, tìm ra những điểm mới trong dữ liệu nhằm đáp ứng hoạt động nghiên cứu",
+    "d": "Là lĩnh vực huấn luyện cho máy tự động làm các công việc thay thế hoạt động của con người",
+    "dapandung": "A"
+  },
+  {
+    "stt": 66,
+    "noidung": "AI trong tài chính thường không dùng để:",
+    "a": "Dự báo thị trường",
+    "b": "Phân tích rủi ro tín dụng",
+    "c": "Tự động biên soạn bản tin tài chính",
+    "d": "Gợi ý danh mục đầu tư",
+    "dapandung": "C"
+  },
+  {
+    "stt": 67,
+    "noidung": "Công nghệ AI là:",
+    "a": "Là công nghệ được quan tâm phát triển bậc nhất hiện nay",
+    "b": "Được ứng dụng trong nhiều lĩnh vực như nhận diện khuôn mặt, xử lí giọng nói",
+    "c": "Được ứng dụng trong các hệ thống an ninh, bảo mật hệ thống pháp luật, chính phủ",
+    "d": "Tất cả các đáp án trên",
+    "dapandung": "D"
+  },
+  {
+    "stt": 68,
+    "noidung": "Mục tiêu của ngành trí tuệ nhân tạo là gì?",
+    "a": "Giúp con người thông minh hơn",
+    "b": "Giúp máy tính suy nghĩ và hành động giống như con người",
+    "c": "Cả hai đều đúng",
+    "d": "Cả hai đều sai",
+    "dapandung": "C"
+  },
+  {
+    "stt": 69,
+    "noidung": "Công nghệ trí tuệ nhân tạo (AI) là gì?",
+    "a": "Sự học hỏi của máy tính để thực hiện các nhiệm vụ thông minh.",
+    "b": "Quá trình sử dụng máy tính để mô phỏng và mô hình hóa hiện tượng tự nhiên.",
+    "c": "Phương pháp sử dụng ngôn ngữ và âm thanh để tương tác với máy tính.",
+    "d": "Quá trình sử dụng công nghệ để thu thập, xử lý và phân tích dữ liệu.",
+    "dapandung": "A"
+  },
+  {
+    "stt": 70,
+    "noidung": "AI yếu (hẹp) là gì?",
+    "a": "Là quan điểm về việc máy móc có thể mô phỏng được tất cả các hành vi trí tuệ của con người",
+    "b": "Là quan điểm về việc máy móc có thể mô phỏng được một số hành vi trí tuệ của con người",
+    "c": "Là quan điểm về việc máy móc có thể mô phỏng được tất cả các hành vi của con người",
+    "d": "Là quan điểm về việc máy móc có thể mô phỏng được một số hành vi của con người",
+    "dapandung": "B"
+  },
+  {
+    "stt": 71,
+    "noidung": "Ai được coi là người khai sinh ra ngành trí tuệ nhân tạo?",
+    "a": "Turing",
+    "b": "Newell",
+    "c": "M. Minsky",
+    "d": "Bill Gate",
+    "dapandung": "A"
+  },
+  {
+    "stt": 72,
+    "noidung": "Đâu không phải là lợi ích của trí tuệ nhân tạo?",
+    "a": "Phát hiện và ngăn chặn các rủi ro",
+    "b": "Hạn chế sử dụng sức lao động của con người",
+    "c": "Xóa bỏ khoảng cách ngôn ngữ",
+    "d": "Mất nhiều sức lao động của con người",
+    "dapandung": "D"
+  },
+  {
+    "stt": 73,
+    "noidung": "IoT được viết tắt bởi từ gì?",
+    "a": "Intelligent of Technology",
+    "b": "Internet of Technology",
+    "c": "Internet of Things",
+    "d": "Intelligent of Things",
+    "dapandung": "C"
+  },
+  {
+    "stt": 74,
+    "noidung": "Chọn phát biểu đúng về IoT?",
+    "a": "IoT là mạng kết nối các thiết bị thông minh thông qua mạng Internet nhằm thu thập dữ liệu trên phạm vi toàn cầu.",
+    "b": "IoT là mạng của các thiết bị thông minh nhằm thu thập và xử lý dữ liệu tự động.",
+    "c": "IoT là mạng của các thiết bị tiếp nhận tín hiệu",
+    "d": "IoT là mạng của máy tính nhằm trao đổi dữ liệu với nhau",
+    "dapandung": "B"
+  },
+  {
+    "stt": 75,
+    "noidung": "Để thu thập dữ liệu từ các thiết bị IoT, ta sử dụng phương pháp?",
+    "a": "Điều khiển các thiết bị thông minh",
+    "b": "Theo dõi các thiết bị thông minh",
+    "c": "Thu thập cảm biến của các thiết bị thông minh",
+    "d": "Tất cả các phương án trên đều đúng",
+    "dapandung": "C"
+  },
+  {
+    "stt": 76,
+    "noidung": "Phát triển ứng dụng IoT cần sử dụng công nghệ nào?",
+    "a": "Công nghệ M2M (Machine to Machine)",
+    "b": "Công nghệ Cloud",
+    "c": "Công nghệ Big Data",
+    "d": "Tất cả các phương án trên đều đúng",
+    "dapandung": "D"
+  },
+  {
+    "stt": 77,
+    "noidung": "Lợi ích của sử dụng IoT là gì?",
+    "a": "Tối ưu hóa quản lý tài nguyên, giảm chi phí vận hành",
+    "b": "Tăng cường an ninh mạng và bảo vệ dữ liệu",
+    "c": "Tạo ra các sản phẩm và dịch vụ thông minh",
+    "d": "Tăng chất lượng cuộc sống và cải thiện công nghệ",
+    "dapandung": "A"
+  },
+  {
+    "stt": 78,
+    "noidung": "IoT cho phép quản lý, điều khiển và giám sát các thiết bị từ đâu?",
+    "a": "Từ một máy tính",
+    "b": "Từ một điện thoại thông minh",
+    "c": "Từ bất kỳ thiết bị nào có kết nối Internet",
+    "d": "Tất cả các phương án đều đúng",
+    "dapandung": "D"
+  },
+  {
+    "stt": 79,
+    "noidung": "Chọn phát biểu sau trong số các phát biểu sau?",
+    "a": "IOT là hệ thống liên mạng bao gồm các phương tiện và vật dụng, các thiết bị thông minh.",
+    "b": "Cảm biến là thiết bị điện tử có khả năng tự động cảm nhận và giám sát những trạng thái của môi trường như ánh sáng, nhiệt độ, độ ẩm.",
+    "c": "Mạng LAN kết nối với các máy tính ở phạm vi toàn thế giới.",
+    "d": "Máy chủ là loại máy tính đặc biệt có khả năng lưu trữ và tính toán rất mạnh, cung cấp dịch vụ lưu trữ và xử lí cho nhiều máy tính khá c.",
+    "dapandung": "C"
+  },
+  {
+    "stt": 80,
+    "noidung": "Công nghệ IoT (Internet of Things) liên quan đến điều gì?",
+    "a": "Kết nối các thiết bị và đối tượng thông qua internet để trao đổi dữ liệu.",
+    "b": "Tích hợp các tính năng máy tính vào các thiết bị điện tử cá nhân.",
+    "c": "Sử dụng công nghệ để phát triển trò chơi và giải trí trực tuyến.",
+    "d": "Xây dựng và vận hành các trang web và ứng dụng di động.",
+    "dapandung": "A"
+  },
+  {
+    "stt": 81,
+    "noidung": "Tên tiếng Anh của điện toán đám mây là gì?",
+    "a": "Gmail.",
+    "b": "Zoom Cloud Meeting.",
+    "c": "Cloud Computing.",
+    "d": "Google Meet.",
+    "dapandung": "C"
+  },
+  {
+    "stt": 82,
+    "noidung": "Điện toán đám mây không thể cung cấp những dịch vụ nào trong các dịch vụ sau:",
+    "a": "Dịch vụ lưu trữ.",
+    "b": "Dịch vụ thư tín điện tử.",
+    "c": "Dịch vụ bảo trì phần cứng và phần mềm tại gia đình.",
+    "d": "Dịch vụ cung cấp máy chủ.",
+    "dapandung": "C"
+  },
+  {
+    "stt": 83,
+    "noidung": "Phát biểu đúng về điện toán đám mây?",
+    "a": "Nó sẽ luôn rẻ hơn và an toàn hơn so với máy tính cục bộ.",
+    "b": "Bạn có thể truy cập dữ liệu của mình từ bất kỳ máy tính nào trên thế giới, miễn là bạn có kết nối Internet.",
+    "c": "Chỉ có một vài công ty nhỏ đang đầu tư vào công nghệ, làm cho nó trở thành một công việc mạo hiểm.",
+    "d": "Bạn có thể truy cập dữ liệu của mình từ bất kỳ máy tính nào trên thế giới.",
+    "dapandung": "B"
+  },
+  {
+    "stt": 84,
+    "noidung": "Đâu không phải là dịch vụ lưu trữ qua điện toán đám mây?",
+    "a": "Dropbox",
+    "b": "Google Drive",
+    "c": "iCoud",
+    "d": "Paint",
+    "dapandung": "D"
+  },
+  {
+    "stt": 85,
+    "noidung": "Trong công nghệ thực tế ảo (VR), VR đại diện cho từ tiếng Anh nào?",
+    "a": "Virtual Reality",
+    "b": "Visual Recognition",
+    "c": "Video Recording",
+    "d": "Voice Recognition",
+    "dapandung": "A"
+  },
+  {
+    "stt": 86,
+    "noidung": "Phát biểu về công nghệ thực tế ảo tăng cường (AR) sau đây là đúng?",
+    "a": "Công nghệ AR chỉ sử dụng cho mục đích giải trí.",
+    "b": "Công nghệ AR cho phép Người dùng có thể tương tác với môi trường ảo như trong thế giới thực khi sử dụng AR.",
+    "c": "Công nghệ AR không liên quan gì đến mô phỏng.",
+    "d": "Công nghệ AR chỉ tạo lập được môi trường ảo khi có kết nối mạng Internet.",
+    "dapandung": "B"
+  },
+  {
+    "stt": 87,
+    "noidung": "Phát biểu nào sau đây về AR là chưa đúng?",
+    "a": "Công nghệ AR được sử dụng rộng rãi trong nhiều lĩnh vực khác nhau như game, giải trí, giáo dục, y tế, và quân sự.",
+    "b": "Công nghệ AR yêu cầu phần mềm chuyên dụng và các thiết bị phần cứng hỗ trợ để tạo lập môi trường ảo",
+    "c": "Công nghệ AR là một dạng mô phỏng, nơi mà môi trường ảo được tạo ra để người dùng có thể trải nghiệm và tương tá c.",
+    "d": "Công nghệ AR đưa người dùng khỏi thế giới thực và khiến họ đắm mình trong không gian hư cấu hoàn toàn.",
+    "dapandung": "D"
+  },
+  {
+    "stt": 88,
+    "noidung": "IoT được viết tắt bởi từ gì?",
+    "a": "Intelligent of Technology",
+    "b": "Internet of Technology",
+    "c": "Internet of Things",
+    "d": "Intelligent of Things",
+    "dapandung": "C"
+  },
+  {
+    "stt": 89,
+    "noidung": "Chọn phát biểu đúng về IoT?",
+    "a": "IoT là mạng kết nối các thiết bị thông minh thông qua mạng Internet nhằm thu thập dữ liệu trên phạm vi toàn cầu.",
+    "b": "IoT là mạng của các thiết bị thông minh nhằm thu thập và xử lý dữ liệu tự động.",
+    "c": "IoT là mạng của các thiết bị tiếp nhận tín hiệu",
+    "d": "IoT là mạng của máy tính nhằm trao đổi dữ liệu với nhau",
+    "dapandung": "B"
+  },
+  {
+    "stt": 90,
+    "noidung": "Để thu thập dữ liệu từ các thiết bị IoT, ta sử dụng phương pháp?",
+    "a": "Điều khiển các thiết bị thông minh",
+    "b": "Theo dõi các thiết bị thông minh",
+    "c": "Thu thập cảm biến của các thiết bị thông minh",
+    "d": "Tất cả các phương án trên đều đúng",
+    "dapandung": "C"
+  },
+  {
+    "stt": 91,
+    "noidung": "Phát triển ứng dụng IoT cần sử dụng công nghệ nào?",
+    "a": "Công nghệ M2M (Machine to Machine)",
+    "b": "Công nghệ Cloud",
+    "c": "Công nghệ Big Data",
+    "d": "Tất cả các phương án trên đều đúng",
+    "dapandung": "D"
+  },
+  {
+    "stt": 92,
+    "noidung": "Lợi ích của sử dụng IoT là gì?",
+    "a": "Tối ưu hóa quản lý tài nguyên, giảm chi phí vận hành",
+    "b": "Tăng cường an ninh mạng và bảo vệ dữ liệu",
+    "c": "Tạo ra các sản phẩm và dịch vụ thông minh",
+    "d": "Tăng chất lượng cuộc sống và cải thiện công nghệ",
+    "dapandung": "A"
+  },
+  {
+    "stt": 93,
+    "noidung": "IoT cho phép quản lý, điều khiển và giám sát các thiết bị từ đâu?",
+    "a": "Từ một máy tính",
+    "b": "Từ một điện thoại thông minh",
+    "c": "Từ bất kỳ thiết bị nào có kết nối Internet",
+    "d": "Tất cả các phương án đều đúng",
+    "dapandung": "D"
+  },
+  {
+    "stt": 94,
+    "noidung": "Chọn phát biểu sai trong số các phát biểu sau?",
+    "a": "IOT là hệ thống liên mạng bao gồm các phương tiện và vật dụng, các thiết bị thông minh.",
+    "b": "Cảm biến là thiết bị điện tử có khả năng tự động cảm nhận và giám sát những trạng thái của môi trường như ánh sáng, nhiệt độ, độ ẩm.",
+    "c": "Mạng LAN kết nối với các máy tính ở phạm vi toàn thế giới.",
+    "d": "Máy chủ là loại máy tính đặc biệt có khả năng lưu trữ và tính toán rất mạnh, cung cấp dịch vụ lưu trữ và xử lí cho nhiều máy tính khá c.",
+    "dapandung": "C"
+  },
+  {
+    "stt": 95,
+    "noidung": "Công nghệ IoT (Internet of Things) liên quan đến điều gì?",
+    "a": "Kết nối các thiết bị và đối tượng thông qua internet để trao đổi dữ liệu.",
+    "b": "Tích hợp các tính năng máy tính vào các thiết bị điện tử cá nhân.",
+    "c": "Sử dụng công nghệ để phát triển trò chơi và giải trí trực tuyến.",
+    "d": "Xây dựng và vận hành các trang web và ứng dụng di động.",
+    "dapandung": "A"
+  },
+  {
+    "stt": 96,
+    "noidung": "Các “trụ cột” nền tảng của IoT bao gồm:",
+    "a": "Khả năng kết nối, khả năng chia sẻ dữ liệu, khả năng xử lý dữ liệu, khả năng sinh dữ liệu.",
+    "b": "Khả năng kết nối, khả năng tạo dữ liệu, khả năng thu thập dữ liệu, khả năng sáng tạo.",
+    "c": "Khả năng kết nối, khả năng thu thập dữ liệu, Khả năng tính toán, khả năng sáng tạo",
+    "d": "Không có phương án nào đúng.",
+    "dapandung": "C"
+  },
+  {
+    "stt": 97,
+    "noidung": "Đặc điểm của kiến trúc đơn giản của IoT là gì?",
+    "a": "Các thiết bị kết nối trực tiếp đến server/cloud",
+    "b": "Các thiết bị kết nối qua tầng trung gian (Fog node, gateway)",
+    "c": "“Things” kết nối trực tiếp “Things”",
+    "d": "Tất cả các phương án đều đúng",
+    "dapandung": "A"
+  },
+  {
+    "stt": 98,
+    "noidung": "Đặc điểm của kiên trúc phân cấp của IoT là gì?",
+    "a": "Các thiết bị kết nối trực tiếp đến server/cloud",
+    "b": "Các thiết bị kết nối qua tầng trung gian (Fog node, gateway)",
+    "c": "“Things” kết nối trực tiếp “Things”",
+    "d": "Tất cả các phương án đều sai",
+    "dapandung": "B"
+  },
+  {
+    "stt": 99,
+    "noidung": "Đặc điểm của kiến trúc tương lai của IoT là gì?",
+    "a": "Các thiết bị kết nối trực tiếp đến server/cloud",
+    "b": "Các thiết bị kết nối qua tầng trung gian (Fog node, gateway)",
+    "c": "“Things” kết nối trực tiếp “Things”",
+    "d": "Tất cả các phương án đều đúng",
+    "dapandung": "C"
+  },
+  {
+    "stt": 100,
+    "noidung": "Đâu không phải là trụ cột nền tảng của IoT?",
+    "a": "Khả năng kết nối",
+    "b": "Khả năng thu thập dữ liệu",
+    "c": "Khả năng thay đổi dữ liệu",
+    "d": "Khả năng sáng tạo",
+    "dapandung": "C"
+  },
+  {
+    "stt": 101,
+    "noidung": "Đâu không phải là trụ cột nền tảng của IoT",
+    "a": "Khả năng kết nối và khả năng sáng tạo",
+    "b": "Khả năng tạo dữ liệu và khả năng thu thập dữ liệu,",
+    "c": "Khả năng tính toán và khả năng sáng tạo",
+    "d": "Khả năng thu thập dữ liệu và khả năng tính toán",
+    "dapandung": "B"
+  },
+  {
+    "stt": 102,
+    "noidung": "Đâu không phải là đặc điểm chính của IoT?",
+    "a": "Kết nối",
+    "b": "Tạo dữ liệu",
+    "c": "Thu thập dữ liệu",
+    "d": "Gửi và nhận dữ liệu",
+    "dapandung": "B"
+  },
+  {
+    "stt": 103,
+    "noidung": "Đâu không phải là đặc điểm chính của IoT? (mỗi đáp án có 2 đặc điểm)",
+    "a": "Kết nối và thu thập dữ liệu",
+    "b": "Thu thập dữ liệu, và gửi/nhận dữ liệu",
+    "c": "Kết nối và gửi/nhận dữ liệu",
+    "d": "Không có phương án nào sai",
+    "dapandung": "D"
+  },
+  {
+    "stt": 104,
+    "noidung": "Đâu là đặc điểm chính của IoT? (lấy mỗi đáp án là một đặc điểm)",
+    "a": "Tạo dữ liệu",
+    "b": "Thu thập dữ liệu",
+    "c": "Xử lý dữ liệu",
+    "d": "Phân tích dữ liệu",
+    "dapandung": "B"
+  },
+  {
+    "stt": 105,
+    "noidung": "Đâu là đặc điểm chính của IoT? (lấy mỗi đáp án là một đặc điểm)",
+    "a": "Tính toàn cầu",
+    "b": "Tính thống nhất",
+    "c": "Tính tính hợp và tự động hóa",
+    "d": "Tính chia sẻ",
+    "dapandung": "C"
+  },
+  {
+    "stt": 106,
+    "noidung": "Đâu là đặc điểm chính của IoT? (lấy mỗi đáp án gồm 2 đặc điểm)",
+    "a": "Tính toàn cầu, tính kết nối",
+    "b": "Khả năng thu thập dữ liệu và gửi/ nhận dữ liệu",
+    "c": "Tính linh hoạt và tính thích thống nhất",
+    "d": "Không có phương án nào đúng",
+    "dapandung": "B"
+  },
+  {
+    "stt": 107,
+    "noidung": "Đâu là phát biểu sai?(khó bằng phát biểu gộp của đặc điểm, khái niệm, phân loại)",
+    "a": "IOT là hệ thống liên mạng bao gồm các phương tiện và vật dụng, các thiết bị thông minh.",
+    "b": "IoT có tính kết nối và khả năng sáng tạo",
+    "c": "IoT có thể có cấu trúc đơn giản hoặc cấu trúc phân cấp",
+    "d": "Không có phát biểu nào sai.",
+    "dapandung": "D"
+  },
+  {
+    "stt": 108,
+    "noidung": "Đâu là phát biểu đúng? khó bằng phát biểu gộp của đặc điểm, khái niệm, phân loại)",
+    "a": "IoT cho phép tất cả các thiết bị có thể kết nối với Internet thông qua một giao thức duy nhất.",
+    "b": "IoT có khả năng biến hóa dữ liệu thành các dạng dữ liệu khác nhau",
+    "c": "Các thiết bị IoT có thể được tích hợp với nhau để tạo thành các hệ thống tự động hoá thông minh.",
+    "d": "Tất cả phát biểu đều đúng",
+    "dapandung": "C"
+  },
+  {
+    "stt": 109,
+    "noidung": "Lợi ích của IoT là gì?",
+    "a": "Tăng cường hiệu suất sản xuất",
+    "b": "Quản lý tồn kho hiệu quả",
+    "c": "Tăng cường an ninh và an toàn",
+    "d": "Tất cả phương án đều đúng",
+    "dapandung": "D"
+  },
+  {
+    "stt": 110,
+    "noidung": "Đâu không phải là lợi ích của IoT?",
+    "a": "Tối ưu hóa quy trình vận hành",
+    "b": "Tăng cường cạnh tranh",
+    "c": "Tăng cường an ninh, an toàn",
+    "d": "Không có phương án nào sai",
+    "dapandung": "D"
+  },
+  {
+    "stt": 111,
+    "noidung": "Thách thức của IoT là gì?",
+    "a": "Có nhiều chuẩn công nghệ khác nhau",
+    "b": "Thiếu cơ quan quản lý và điều hành chung",
+    "c": "Khó đảm bảo quyền riêng tư và bảo mật.",
+    "d": "Tất cả phương án đều đúng",
+    "dapandung": "D"
+  },
+  {
+    "stt": 112,
+    "noidung": "Đâu không phải là thách thức của IoT",
+    "a": "Năng lực xử lý dữ liệu của các hệ thống.",
+    "b": "Thiếu cơ quan quản lý và điều hành chung",
+    "c": "Đảm bảo tính minh bạch",
+    "d": "Tất cả phương án đều sai",
+    "dapandung": "B"
+  },
+  {
+    "stt": 113,
+    "noidung": "Đâu là ứng dụng của IoT",
+    "a": "Các thiết bị để giám sát và điều khiển các hệ thống tự động hóa",
+    "b": "Các thiết bị y tế thông minh",
+    "c": "Các thiết bị để giám sát và điều khiển camera an ninh",
+    "d": "Tất cả các phương án đều đúng",
+    "dapandung": "D"
+  },
+  {
+    "stt": 114,
+    "noidung": "Đâu không phải là ứng dụng của IoT",
+    "a": "Các thiết bị để giám sát và điều khiển camera an ninh",
+    "b": "Các thiết bị y tế thông minh",
+    "c": "Các bài giảng trên giấy",
+    "d": "Tất cả các phương án đều sai",
+    "dapandung": "C"
+  },
+  {
+    "stt": 115,
+    "noidung": "Đâu là phát biểu sai về IoT?",
+    "a": "IoT giúp tối ưu hóa quy trình vận hành.",
+    "b": "Thách thức của IoT là khó đảm bảo quyền riêng tư và bảo mật.",
+    "c": "Giao thông thông mình là một trong những ứng dụng của IoT",
+    "d": "Tất cả phát biểu đều đúng",
+    "dapandung": "D"
+  },
+  {
+    "stt": 116,
+    "noidung": "Đâu là phát biểu đúng về IoT?",
+    "a": "Thách thức của IoT là thiếu cơ quan quản lý và điều hành chung",
+    "b": "Tất cả các thiết bị điều khiển đều là ứng dụng của IoT",
+    "c": "IoT chỉ có cấu trúc phân lớp",
+    "d": "Không có phát biểu nào đúng",
+    "dapandung": "A"
+  },
+  {
+    "stt": 117,
+    "noidung": "Tên tiếng Anh của điện toán đám mây là gì?",
+    "a": "Gmail.",
+    "b": "Zoom Cloud Meeting.",
+    "c": "Cloud Computing.",
+    "d": "Google Meet.",
+    "dapandung": "C"
+  },
+  {
+    "stt": 118,
+    "noidung": "Điện toán đám mây không thể cung cấp những dịch vụ nào trong các dịch vụ sau:",
+    "a": "Dịch vụ lưu trữ.",
+    "b": "Dịch vụ thư tín điện tử.",
+    "c": "Dịch vụ bảo trì phần cứng và phần mềm tại gia đình.",
+    "d": "Dịch vụ cung cấp máy chủ.",
+    "dapandung": "C"
+  },
+  {
+    "stt": 119,
+    "noidung": "Phát biểu đúng về điện toán đám mây?",
+    "a": "Nó sẽ luôn rẻ hơn và an toàn hơn so với máy tính cục bộ.",
+    "b": "Bạn có thể truy cập dữ liệu của mình từ bất kỳ máy tính nào trên thế giới, miễn là bạn có kết nối Internet.",
+    "c": "Chỉ có một vài công ty nhỏ đang đầu tư vào công nghệ, làm cho nó trở thành một công việc mạo hiểm.",
+    "d": "Bạn có thể truy cập dữ liệu của mình từ bất kỳ máy tính nào trên thế giới.",
+    "dapandung": "B"
+  },
+  {
+    "stt": 120,
+    "noidung": "Đâu không phải là dịch vụ lưu trữ qua điện toán đám mây?",
+    "a": "Dropbox",
+    "b": "Google Drive",
+    "c": "iCoud",
+    "d": "Paint",
+    "dapandung": "D"
+  },
+  {
+    "stt": 121,
+    "noidung": "Đâu là phát biểu đúng về điện toán đám mây",
+    "a": "Điện toán đám mây là mô hình tính toán trên mây.",
+    "b": "Điện toán đám mây là mô hình điện toán sử dụng công nghệ máy tính và phát triển dựa trên Internet",
+    "c": "Điện toán đám mây là giải pháp tính toán dựa trên máy tính là chủ yếu.",
+    "d": "Điện toán đám mây cung cấp các dịch vụ cho người dùng để tính toán.",
+    "dapandung": "B"
+  },
+  {
+    "stt": 122,
+    "noidung": "Đâu là phát biểu đúng về điện toán đám mây ?",
+    "a": "Dịch vụ đám mây được cung cấp và quản lý bởi trung tâm dữ liệu của nhà nướ c.",
+    "b": "Người dùng cần đầu tư một khoản tiền lớn để sử dụng dịch vụ của điện toán đám mây.",
+    "c": "Dịch vụ của điện toán đám mây luôn được cung cấp ngay cả khi không có Internet",
+    "d": "Điện toán đám mây cung cấp các dịch vụ tính toán, lưu trữ, mạng và các dịch vụ khác qua Internet cho người dùng.",
+    "dapandung": "D"
+  },
+  {
+    "stt": 123,
+    "noidung": "Đâu là phát biểu sai về điện toán đám mây ?",
+    "a": "Điện toán đám mây là mô hình điện toán sử dụng công nghệ máy tính và phát triển dựa trên Internet.",
+    "b": "Với điện toán đám mây, người dùng có thể truy cập và làm việc với dũ liệu từ bất kỳ nơi nào có kết nối Internet",
+    "c": "Điện toán đám mây cung cấp các dịch vụ tính toán, lưu trữ, mạng và các dịch vụ khác qua Internet cho người dùng",
+    "d": "Không có phát biểu nào sai",
+    "dapandung": "D"
+  },
+  {
+    "stt": 124,
+    "noidung": "Đâu là phát biểu đúng về điện toán đám mây?",
+    "a": "Điện toán đám mây có tính linh hoạt trong việc triển khai ứng dụng.",
+    "b": "Điện toán đám mây cung cấp tài nguyên để tính toán với hiệu suất cao còn lưu trữ với hiệu suất thấp",
+    "c": "Dịch vụ điện toán đám mây được cung cấp không mang tính liên tục",
+    "d": "Không có phát biểu nào đúng",
+    "dapandung": "A"
+  },
+  {
+    "stt": 125,
+    "noidung": "Đâu là phát biểu sai về điện toán đám mây?",
+    "a": "DỊch vụ điện toán đám mây không cần quản lý quyền truy cập và kiểm soát dữ liệu",
+    "b": "Dịch vụ điện toán đám mây luôn phụ thuộc vào kết nối Internet",
+    "c": "Dịch vụ điện toán đám mây thường có chi phí lưu trữ dữ liệu lớn",
+    "d": "Dịch vụ điện toán đám mây cho phép người dùng có thể truy cập và làm việc với dữ liệu từ x a.",
+    "dapandung": "A"
+  },
+  {
+    "stt": 126,
+    "noidung": "Các loại dịch vụ của điện toán đám mây là gì?",
+    "a": "IaaS – Cơ sở hạ tầng như một dịch vụ",
+    "b": "PaaS- Nền tảng như là một dịch vụ",
+    "c": "SaaS: phần mềm như là một dịch vụ",
+    "d": "Tất cả các phương án đều đúng",
+    "dapandung": "D"
+  },
+  {
+    "stt": 127,
+    "noidung": "Đâu không phải là phân loại dịch vụ của điện toán đám mây",
+    "a": "IaaS",
+    "b": "EaaS",
+    "c": "UaaS",
+    "d": "MaaS",
+    "dapandung": ""
+  },
+  {
+    "stt": 128,
+    "noidung": "Thế nào là dịch vụ dạng IaaS (Infrasture as a Service)",
+    "a": "Cung cấp các dịch vụ sử dụng phần cứng cho người dùng, người dùng chỉ cần thuê dịch vụ qua mạng",
+    "b": "Cung cấp các dịch vụ sử dụng phần cứng cho người dùng thông qua lắp đặt trực tiếp và đăng ký theo thời gian",
+    "c": "Cung cấp dịch vụ cho người dùng có thể sử dụng phần mềm, người dùng chỉ cần thuê dịch vụ qua mạng.",
+    "d": "Không có phương án nào đúng",
+    "dapandung": "A"
+  },
+  {
+    "stt": 129,
+    "noidung": "Đâu là tài nguyên của dịch vụ dạng IaaS?",
+    "a": "Các máy chủ",
+    "b": "Hệ thống lưu trữ",
+    "c": "Hệ thống mạng",
+    "d": "Tất cả phương án đều đúng",
+    "dapandung": "D"
+  },
+  {
+    "stt": 130,
+    "noidung": "Đâu là tài nguyên của dịch vụ dạng IaaS?",
+    "a": "Các phần mềm như phần mềm soạn thảo văn bản",
+    "b": "Các máy tính cá nhân",
+    "c": "Các máy in",
+    "d": "Các máy chủ",
+    "dapandung": "D"
+  },
+  {
+    "stt": 131,
+    "noidung": "Thế nào là dịch vụ dạng PaaS",
+    "a": "Là một mô hình phân phối ứng dụng, cho phép người dùng sử dụng để thiết kế, phát triển, thử nghiệm, triển khai và đóng gói ứng dụng mà không cần tải về hay cài đặt.",
+    "b": "Là mô hình chỉ cho phép người dùng sử dụng dich vụ để triển khai và cài đặt ứng dụng.",
+    "c": "Là mô hình cho phép người dùng sử dụng thiết bị như là một dịch vụ mà không cần cài đặt gì.",
+    "d": "Tất cả các phương án đều sai",
+    "dapandung": "A"
+  },
+  {
+    "stt": 132,
+    "noidung": "Đâu là ứng dụng của dịch vụ dạng PaaS?",
+    "a": "Thiết kế và phát triển ứng dụng",
+    "b": "Thử nghiệm và triển khai ứng dụng",
+    "c": "Lưu trữ và đóng gói ứng dụng",
+    "d": "Tât cả các phương án đều đúng",
+    "dapandung": "D"
+  },
+  {
+    "stt": 133,
+    "noidung": "Đâu không phải là ứng dụng của dịch vụ dạng PaaS?",
+    "a": "Phát triển ứng dụng",
+    "b": "Phát triển hệ thống mạng",
+    "c": "Triển khai ứng dụng",
+    "d": "Đóng gói ứng dụng",
+    "dapandung": "B"
+  },
+  {
+    "stt": 134,
+    "noidung": "Thế nào là dịch vụ dạng SaaS",
+    "a": "Là mô hình cho phép người dùng sử dụng dich vụ để triển khai và cài đặt ứng dụng.",
+    "b": "Là mô hình trong đó ứng dụng được lưu trữ như một dịch vụ để khâchs hàng truy cập qua Internet",
+    "c": "Là mô hình cho phép người dùng sử dụng thiết bị như là một dịch vụ mà không cần cài đặt gì.",
+    "d": "Không có phương án nào đúng",
+    "dapandung": "B"
+  },
+  {
+    "stt": 135,
+    "noidung": "Đâu là ứng dụng của dịch vụ dạng SaaS?",
+    "a": "Google docs",
+    "b": "Google map",
+    "c": "Facebook",
+    "d": "Tât cả các phuwong án đều đúng",
+    "dapandung": "D"
+  },
+  {
+    "stt": 136,
+    "noidung": "Đâu không phải là ứng dụng của dịch vụ dạng SaaS?",
+    "a": "Google Search",
+    "b": "Google Sheet",
+    "c": "Microsoft Word",
+    "d": "Google Map",
+    "dapandung": "CS"
+  },
+  {
+    "stt": 137,
+    "noidung": "Lợi ích của người dùng khi sử dụng dịch vụ IaaS?",
+    "a": "Giúp người dùng linh hoạt trong sử dụng tài nguyên",
+    "b": "Giúp người dùng tự do linh hoạt chọn các thông số kỹ thuật, phần cứng giúp cho quá trình vận hành được ổn định.",
+    "c": "Giúp giảm thiểu phát sinh sự cố và chi phí nâng cấp hệ thống",
+    "d": "Tất cả các phương án đều đúng",
+    "dapandung": "D"
+  },
+  {
+    "stt": 138,
+    "noidung": "Lợi ích của người dùng khi sử dụng dịch vụ PaaS?",
+    "a": "Tăng thời gian đưa sản phẩm ra thị trường",
+    "b": "Tự do thử nghiệm",
+    "c": "Tối ưu chi phí",
+    "d": "Tất cả các phương án đều đúng",
+    "dapandung": "D"
+  },
+  {
+    "stt": 139,
+    "noidung": "Lợi ích của người dùng khi sử dụng dịch vụ SaaS?",
+    "a": "Giảm thiểu thời gian cài đặt và triển khai ứng dụng",
+    "b": "Tiết kiệm chi phí",
+    "c": "Truy cập mọi lúc mọi nơi",
+    "d": "Tất cả các phương án đều đúng",
+    "dapandung": ""
+  },
+  {
+    "stt": 140,
+    "noidung": "Đâu là phát biểu đúng về các loại dịch vụ của điện toán đám mây?",
+    "a": "IaaS cung cấp ứng dụng phần mềm sẵn có thông qua mạng cho người dùng cuối và doanh nghiệp sử dụng.",
+    "b": "SaaS cung cấp ứng dụng phần mềm sẵn có thông qua mạng cho người dùng cuối và doanh nghiệp sử dụng",
+    "c": "PaaS cung cấp hạ tầng máy chủ, mạng và lưu trữ ảo hóa cho các người dùng là quản trị viên hạ tầng.",
+    "d": "Tất cả các phương án đều sai",
+    "dapandung": "B"
+  },
+  {
+    "stt": 141,
+    "noidung": "Đâu là phát biểu sai về các loại dịch vụ của điện toán đám mây?",
+    "a": "SaaS cung cấp ứng dụng phần mềm sẵn có thông qua mạng cho người dùng cuối và doanh nghiệp sử dụng.",
+    "b": "IaaS cung cấp hạ tầng máy chủ, mạng và lưu trữ ảo hóa cho các người dùng là quản trị viên hạ tầng.",
+    "c": "PaaS cung cấp hạ tầng máy chủ, mạng và lưu trữ ảo hóa cho các người dùng là quản trị viên hạ tầng.",
+    "d": "Không có phương án nào sai",
+    "dapandung": "C"
+  },
+  {
+    "stt": 142,
+    "noidung": "Đâu là phát biểu sai về các loại dịch vụ của điện toán đám mây?",
+    "a": "SaaS cung cấp nền tảng cho việc phát triển, triển khai và quản lý ứng dụng cho nhà phát triển ứng dụng.",
+    "b": "SaaS cung cấp hạ tầng máy chủ, mạng và lưu trữ ảo hóa cho các người dùng là quản trị viên hạ tầng.",
+    "c": "PaaS cung cấp hạ tầng máy chủ, mạng và lưu trữ ảo hóa cho các người dùng là quản trị viên hạ tầng.",
+    "d": "PaaS cung cấp nền tảng cho việc phát triển, triển khai và quản lý ứng dụng cho nhà phát triển ứng dụng.",
+    "dapandung": "D"
+  },
+  {
+    "stt": 143,
+    "noidung": "Trong công nghệ thực tế ảo (VR), VR đại diện cho từ tiếng Anh nào?",
+    "a": "Virtual Reality",
+    "b": "Visual Recognition",
+    "c": "Video Recording",
+    "d": "Voice Recognition",
+    "dapandung": "A"
+  },
+  {
+    "stt": 144,
+    "noidung": "Phát biểu về công nghệ thực tế ảo tăng cường (AR) sau đây là đúng?",
+    "a": "Công nghệ AR chỉ sử dụng cho mục đích giải trí.",
+    "b": "Công nghệ AR cho phép Người dùng có thể tương tác với môi trường ảo như trong thế giới thực khi sử dụng AR.",
+    "c": "Công nghệ AR không liên quan gì đến mô phỏng.",
+    "d": "Công nghệ AR chỉ tạo lập được môi trường ảo khi có kết nối mạng Internet.",
+    "dapandung": "B"
+  },
+  {
+    "stt": 145,
+    "noidung": "Phát biểu nào sau đây về AR là chưa đúng?",
+    "a": "Công nghệ AR được sử dụng rộng rãi trong nhiều lĩnh vực khác nhau như game, giải trí, giáo dục, y tế, và quân sự.",
+    "b": "Công nghệ AR yêu cầu phần mềm chuyên dụng và các thiết bị phần cứng hỗ trợ để tạo lập môi trường ảo",
+    "c": "Công nghệ AR là một dạng mô phỏng, nơi mà môi trường ảo được tạo ra để người dùng có thể trải nghiệm và tương tá c.",
+    "d": "Công nghệ AR đưa người dùng khỏi thế giới thực và khiến họ đắm mình trong không gian hư cấu hoàn toàn.",
+    "dapandung": "D"
+  },
+  {
+    "stt": 146,
+    "noidung": "Đâu là phát biểu đúng về thực tế ảo tăng cường (AR/VR)?",
+    "a": "AR/VR là một công nghệ dùng máy tính mô phỏng làm xuất hiện sự hiện diện vật lý trong những môi trường thế giới thực hay thế giới tưởng tượng.",
+    "b": "Công nghệ AR (Augmented Reality) là dạng công nghệ kết hợp thế giới thực với các yếu tố ảo thông qua thiết bị di động hoặc kính AR được các nhà sản xuất phát triển dựa trên công nghệ VR.",
+    "c": "AR/VR giúp xuất hiện những đồ vật/ sự kiện 2D, 3D,..bằng các dữ liệu đã được mã hóa thông qua các lớp thông tin hỗ trợ và được hiển thị trên các thiết bị điện tử như smartphone, tablet,…",
+    "d": "AR tập trung vào việc kết hợp giữa thế giới thật với thông tin ảo, không phải tách người dùng ra một không gian riêng như VR. Nó có thể hỗ trợ tương tác với nội dung ảo ngay trong đời thật như chạm, có thể phủ một lớp hình ảnh lên trên ảnh thật…",
+    "dapandung": ""
+  },
+  {
+    "stt": 147,
+    "noidung": "Đâu là phát biểu sai về thực tế ảo tăng cường (AR/VR)?",
+    "a": "AR/VR là một công nghệ dùng máy tính mô phỏng làm xuất hiện sự hiện diện vật lý trong những môi trường thế giới thực hay thế giới tưởng tượng.",
+    "b": "Công nghệ AR (Augmented Reality) là dạng công nghệ kết hợp thế giới thực với các yếu tố ảo thông qua thiết bị di động hoặc kính AR được các nhà sản xuất phát triển dựa trên công nghệ VR.",
+    "c": "AR/VR giúp xuất hiện những đồ vật/ sự kiện 2D, 3D,..bằng các dữ liệu đã được mã hóa thông qua các lớp thông tin hỗ trợ và được hiển thị trên các thiết bị điện tử như smartphone, tablet,…",
+    "d": "AR tập trung vào việc kết hợp giữa thế giới thật với thông tin ảo, không phải tách người dùng ra một không gian riêng như VR. Nó có thể hỗ trợ tương tác với nội dung ảo ngay trong đời thật như chạm, có thể phủ một lớp hình ảnh lên trên ảnh thật…",
+    "dapandung": ""
+  },
+  {
+    "stt": 148,
+    "noidung": "Đâu không phải là ứng dụng của AR/VR?",
+    "a": "Các trò chơi 3D theo thời gian thực",
+    "b": "Tất cả các video quảng cáo sản phẩm trong kinh doanh online.",
+    "c": "Các mô hình lớp học ảo online cho phép người dùng trải nghiệm và tương tác trong những trường hợp khó thực hiện trong thực tế như phòng cháy chữa cháy, thí nghiệm.",
+    "d": "Các trợ lý ảo tương tác với người dùng trong các lĩnh vự c.",
+    "dapandung": "B"
+  },
+  {
+    "stt": 149,
+    "noidung": "Đâu là ứng dụng của AR/VR?",
+    "a": "Các trò chơi 3D theo thời gian thực",
+    "b": "Các video mô phỏng hình ảnh sản phẩm trong kinh doanh online",
+    "c": "Các mô hình lớp học ảo online cho phép người dùng trải nghiệm và tương tác trong những trường hợp khó thực hiện trong thực tế như phòng cháy chữa cháy, thí nghiệm.",
+    "d": "Tất cả các phương án đều đúng",
+    "dapandung": ""
+  },
+  {
+    "stt": 150,
+    "noidung": "Lợi ích của AR/VR là gì?",
+    "a": "Gia tăng mức độ trải nghiệm khách hàng trong mua hàng.",
+    "b": "Có thể mô phỏng và thực hiện các trường hợp khó và nguy hiểm trong thực tế.",
+    "c": "Có thể định vị và điều hướng cho người dùng trong lái xe, dẫn đường.",
+    "d": "Tất cả các phương án đều đúng",
+    "dapandung": "D"
+  },
+  {
+    "stt": 151,
+    "noidung": "Ứng dụng của AR/VR ở đâu?",
+    "a": "Kinh doanh",
+    "b": "Giáo dục",
+    "c": "Giao thông",
+    "d": "Tất cả các phương án đều đúng",
+    "dapandung": "D"
+  },
+  {
+    "stt": 152,
+    "noidung": "Đâu là phát biểu đúng về khả năng của AR/VR?",
+    "a": "Công nghệ AR giúp khách hàng khám phá điểm đến mà không bị ảnh hưởng các yếu tố như chất lượng giao thông, địa điểm lưu trú,..",
+    "b": "Công nghệ AR giúp người tiêu dùng có thể sử dụng các ứng dụng trực tuyến của cửa hàng để tham khảo sản phẩm.",
+    "c": "Công nghệ AR giúp con người tiếp cận tri thức dễ dàng hơn thông qua những hình ảnh đa chiều sống động.",
+    "d": "Tất cả các phương án đều đúng.",
+    "dapandung": ""
+  },
+  {
+    "stt": 153,
+    "noidung": "Đâu là phát biểu sai về khả năng của AR/VR?",
+    "a": "Công nghệ AR giúp khách hàng mua hàng với giá rẻ.",
+    "b": "Công nghệ AR giúp con người tiếp cận tri thức dễ dàng thông qua những hình ảnh đa chiều sống động.",
+    "c": "Công nghệ AR hỗ trợ chuyên gia y tế trong quá trình thu thập thông tin, tìm hiểu các vấn đề trong cơ thể, từ đó đưa ra chẩn đoán chính xá c.",
+    "d": "Công nghệ AR giúp mô phỏng và thực hiện các trường hợp khó và nguy hiểm trong thực tế.",
+    "dapandung": ""
+  }
+]

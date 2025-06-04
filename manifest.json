@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Auto Fill Questions",
+    "version": "1.0",
+    "description": "Tự động điền nội dung câu hỏi trắc nghiệm vào LMS",
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ],
+    "host_permissions": [
+      "https://lms.tmu.edu.vn/*"
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+      }
+    }
+  }
