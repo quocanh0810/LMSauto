@@ -1,0 +1,182 @@
+[
+  {
+    "stt": 1,
+    "noidung": "Đâu là chức năng của bộ phận lễ tân?",
+    "a": "Chế biến món ăn",
+    "b": "Quản lý tài chính",
+    "c": "Đặt buồng, làm thủ tục nhận và trả buồng",
+    "d": "Đào tạo nhân sự",
+    "dapandung": "C"
+  },
+  {
+    "stt": 2,
+    "noidung": "Nhiệm vụ của bộ phận buồng không bao gồm:",
+    "a": "Chuẩn bị buồng sẵn sàng đón khách",
+    "b": "Cung cấp dịch vụ spa cho khách",
+    "c": "Vệ sinh buồng hàng ngày",
+    "d": "Quản lý đồ thất lạc",
+    "dapandung": "B"
+  },
+  {
+    "stt": 3,
+    "noidung": "Nhân viên nào chịu trách nhiệm vận chuyển hành lý cho khách?",
+    "a": "Lễ tân",
+    "b": "Porter/Bellman",
+    "c": "Trợ lý bếp trưởng",
+    "d": "Nhân viên kiểm toán đêm",
+    "dapandung": "B"
+  },
+  {
+    "stt": 4,
+    "noidung": "Đâu là chức năng của bộ phận bếp?",
+    "a": "Thanh toán hóa đơn",
+    "b": "Tạo ra các sản phẩm ăn uống",
+    "c": "Phục vụ tiệc",
+    "d": "Quản lý nguồn nhân lực",
+    "dapandung": "B"
+  },
+  {
+    "stt": 5,
+    "noidung": "Nhiệm vụ chính của bộ phận nhân sự là gì?",
+    "a": "Xử lý công việc kế toán",
+    "b": "Thu hút, đào tạo, phát triển nhân sự",
+    "c": "Làm sạch và bảo dưỡng khách sạn",
+    "d": "Phục vụ đồ ăn và đồ uống",
+    "dapandung": "B"
+  },
+  {
+    "stt": 6,
+    "noidung": "Nhân viên tổng đài thuộc bộ phận nào?",
+    "a": "Bộ phận lễ tân",
+    "b": "Bộ phận bếp",
+    "c": "Bộ phận nhân sự",
+    "d": "Bộ phận kỹ thuật",
+    "dapandung": "A"
+  },
+  {
+    "stt": 7,
+    "noidung": "Chức danh nào không thuộc bộ phận bếp?",
+    "a": "Bếp trưởng bếp bánh",
+    "b": "Nhân viên lái xe",
+    "c": "Tổ trưởng tổ bếp",
+    "d": "Nhân viên tạp vụ bếp",
+    "dapandung": "B"
+  },
+  {
+    "stt": 8,
+    "noidung": "Bộ phận nào có trách nhiệm đảm bảo an toàn cho khách và tài sản?",
+    "a": "Bộ phận lễ tân",
+    "b": "Bộ phận an ninh",
+    "c": "Bộ phận tài chính",
+    "d": "Bộ phận buồng",
+    "dapandung": "B"
+  },
+  {
+    "stt": 9,
+    "noidung": "Công việc của nhân viên kỹ thuật không bao gồm",
+    "a": "Bảo trì thiết bị",
+    "b": "Hướng dẫn sử dụng thiết bị",
+    "c": "Vận chuyển hàng hóa",
+    "d": "Trang trí sân khấu",
+    "dapandung": "C"
+  },
+  {
+    "stt": 10,
+    "noidung": "Nhân viên PR thuộc bộ phận nào?",
+    "a": "Bộ phận lễ tân",
+    "b": "Bộ phận bán hàng & marketing",
+    "c": "Bộ phận kế toán",
+    "d": "Bộ phận dịch vụ nhà hàng",
+    "dapandung": "B"
+  },
+  {
+    "stt": 11,
+    "noidung": "Nhiệm vụ nào thuộc bộ phận dịch vụ nhà hàng?",
+    "a": "Kiểm tra tình trạng buồng",
+    "b": "Pha chế đồ uống và phục vụ khách",
+    "c": "Quản lý hệ thống kỹ thuật",
+    "d": "Tính toán giá thành nguyên liệu",
+    "dapandung": "B"
+  },
+  {
+    "stt": 12,
+    "noidung": "Chức năng chính của bộ phận bán hàng và marketing là gì?",
+    "a": "Tìm kiếm khách hàng cho khách sạn",
+    "b": "Quản lý đồ thất lạc của khách",
+    "c": "Thanh toán lương cho nhân viên",
+    "d": "Xây dựng thực đơn",
+    "dapandung": "A"
+  },
+  {
+    "stt": 13,
+    "noidung": "Chức danh nào thuộc bộ phận kế toán?",
+    "a": "Nhân viên kho",
+    "b": "Trợ lý bếp trưởng",
+    "c": "Trợ lý giám đốc lễ tân",
+    "d": "Tổ trưởng tổ hoa",
+    "dapandung": "A"
+  },
+  {
+    "stt": 14,
+    "noidung": "Bộ phận nào chịu trách nhiệm tổ chức các chương trình giải trí?",
+    "a": "Bộ phận lễ tân",
+    "b": "Bộ phận vui chơi giải trí",
+    "c": "Bộ phận nhân sự",
+    "d": "Bộ phận buồng",
+    "dapandung": "B"
+  },
+  {
+    "stt": 15,
+    "noidung": "Nhân viên nào giám sát khu vực công cộng?",
+    "a": "Giám sát lễ tân",
+    "b": "Nhân viên quan hệ khách hàng",
+    "c": "Giám sát phòng",
+    "d": "Giám sát khu vực công cộng",
+    "dapandung": "D"
+  },
+  {
+    "stt": 16,
+    "noidung": "Nhiệm vụ nào không thuộc bộ phận tài chính – kế toán?",
+    "a": "Dự báo và lập ngân sách",
+    "b": "Quản lý thông tin kinh doanh",
+    "c": "Tìm kiếm khách hàng tiềm năng",
+    "d": "Thanh toán dịch vụ ngân hàng",
+    "dapandung": "C"
+  },
+  {
+    "stt": 17,
+    "noidung": "Bộ phận kỹ thuật hỗ trợ các bộ phận khác như thế nào?",
+    "a": "Hỗ trợ đào tạo và tuyển dụng",
+    "b": "Hỗ trợ bảo trì và vận hành thiết bị",
+    "c": "Hỗ trợ quảng bá dịch vụ khách sạn",
+    "d": "Hỗ trợ điều phối nhân sự",
+    "dapandung": "B"
+  },
+  {
+    "stt": 18,
+    "noidung": "Nhân viên nào trong bộ phận bếp chuyên làm bánh?",
+    "a": "Bếp phó",
+    "b": "Bếp trưởng bếp bánh",
+    "c": "Nhân viên phụ bếp",
+    "d": "Tổ trưởng tổ bếp",
+    "dapandung": "B"
+  },
+  {
+    "stt": 19,
+    "noidung": "Hoạt động chính của bộ phận vui chơi giải trí không bao gồm:",
+    "a": "Tổ chức các sự kiện nghệ thuật",
+    "b": "Cung cấp dịch vụ spa",
+    "c": "Quản lý hệ thống tài chính",
+    "d": "Điều hành các môn thể thao nước",
+    "dapandung": "C"
+  },
+  {
+    "stt": 20,
+    "noidung": "Chức danh nào chịu trách nhiệm phân tích thị trường và đối thủ cạnh tranh?",
+    "a": "Nhân viên Marketing",
+    "b": "Nhân viên thu ngân",
+    "c": "Giám sát lễ tân",
+    "d": "Nhân viên tạp vụ",
+    "dapandung": "A"
+  }
+]

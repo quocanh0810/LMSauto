@@ -2,6 +2,11 @@ from docx import Document
 import json
 import re
 
+#STT
+#Nội dung câu hỏi
+#Phương án
+#Đáp án
+
 def extract_options_from_cell(cell):
     """Tách các phương án A–D từ ô cell trong bảng Word."""
     full_text = ""
@@ -74,6 +79,6 @@ def parse_questions_from_table(docx_path, output_json_path):
 
 # Chạy thử
 if __name__ == "__main__":
-    input_docx = "cauhoichuong1.docx"
-    output_json = "questions.json"
+    input_docx = "cauhoichuong4.docx"
+    output_json = "questions4.json"
     parse_questions_from_table(input_docx, output_json)

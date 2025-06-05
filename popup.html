@@ -8,44 +8,42 @@
 
     body {
       font-family: 'Roboto', sans-serif;
-      width: 250px;
+      width: 270px;
       padding: 20px;
       background-color: #f9f9f9;
       border-radius: 8px;
     }
 
     h2 {
-      margin: 0 0 10px 0;
-      font-size: 18px;
-      font-weight: bold;
-      color: #007BFF;
       text-align: center;
+      color: #007BFF;
+      font-size: 18px;
+      margin-bottom: 10px;
     }
 
     h3 {
-      margin-bottom: 15px;
       font-size: 15px;
-      color: #333;
+      margin-bottom: 8px;
     }
 
-    input[type="number"] {
+    input[type="number"], input[type="file"] {
       width: 100%;
       padding: 10px;
-      border: 1px solid #ccc;
+      margin-bottom: 10px;
       border-radius: 5px;
-      font-size: 14px;
+      border: 1px solid #ccc;
       box-sizing: border-box;
     }
 
     button {
       width: 100%;
-      margin-top: 15px;
       padding: 10px;
-      background-color: #007BFF;
+      margin-top: 10px;
+      font-size: 15px;
       color: white;
+      background-color: #007BFF;
       border: none;
       border-radius: 5px;
-      font-size: 15px;
       cursor: pointer;
       transition: background-color 0.3s ease;
     }
@@ -57,10 +55,34 @@
 </head>
 <body>
   <h2>LMS TMU Auto</h2>
+
   <h3>Nhập STT câu hỏi:</h3>
-  <input type="number" id="questionId" min="1"/>
+  <input type="number" id="questionId" min="1" />
+
   <button id="fillButton">📥 Điền dữ liệu</button>
 
+  <hr style="margin: 20px 0;">
+
+  <!-- <h3>Nhập file câu hỏi (.docx):</h3>
+  <input type="file" id="docxFile" accept=".docx" />
+
+  <button id="convertButton">⚙️ Xuất ra file JSON</button> -->
+
   <script src="popup.js"></script>
+  <!-- <script>
+    document.getElementById("convertButton").addEventListener("click", () => {
+      const fileInput = document.getElementById("docxFile");
+      const file = fileInput.files[0];
+
+      if (!file) {
+        alert("Vui lòng chọn file .docx trước.");
+        return;
+      }
+
+      // Gửi file đến backend để xử lý (nếu có Python backend) — chỉ hoạt động khi bạn chạy server
+      alert("⚙️ Tính năng này cần tích hợp backend Python để hoạt động.\nVui lòng chạy convert_docx_to_json2.py thủ công hoặc tích hợp thêm backend.");
+    });
+  </script> -->
 </body>
 </html>
+
