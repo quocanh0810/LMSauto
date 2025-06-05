@@ -8,7 +8,7 @@
 
     body {
       font-family: 'Roboto', sans-serif;
-      width: 270px;
+      width: 280px;
       padding: 20px;
       background-color: #f9f9f9;
       border-radius: 8px;
@@ -18,32 +18,41 @@
       text-align: center;
       color: #007BFF;
       font-size: 18px;
-      margin-bottom: 10px;
+      margin-bottom: 16px;
     }
 
     h3 {
-      font-size: 15px;
-      margin-bottom: 8px;
+      font-size: 14px;
+      margin-bottom: 6px;
+      color: #333;
     }
 
-    input[type="number"], input[type="file"] {
+    input[type="number"],
+    input[type="text"] {
       width: 100%;
-      padding: 10px;
-      margin-bottom: 10px;
-      border-radius: 5px;
+      padding: 10px 12px;
+      font-size: 14px;
       border: 1px solid #ccc;
+      border-radius: 6px;
+      margin-bottom: 12px;
       box-sizing: border-box;
+      transition: border-color 0.3s ease;
+    }
+
+    input:focus {
+      border-color: #007BFF;
+      outline: none;
     }
 
     button {
       width: 100%;
       padding: 10px;
-      margin-top: 10px;
       font-size: 15px;
+      font-weight: 500;
       color: white;
       background-color: #007BFF;
       border: none;
-      border-radius: 5px;
+      border-radius: 6px;
       cursor: pointer;
       transition: background-color 0.3s ease;
     }
@@ -51,38 +60,32 @@
     button:hover {
       background-color: #0056b3;
     }
+
+    hr {
+      margin: 18px 0;
+      border: none;
+      border-top: 1px solid #ddd;
+    }
+
+    ::placeholder {
+      color: #999;
+      font-style: italic;
+    }
   </style>
 </head>
 <body>
   <h2>LMS TMU Auto</h2>
 
   <h3>Nhập STT câu hỏi:</h3>
-  <input type="number" id="questionId" min="1" />
-
+  <input type="number" id="questionId" min="1" placeholder="VD: 3" />
   <button id="fillButton">📥 Điền dữ liệu</button>
 
-  <hr style="margin: 20px 0;">
+  <hr>
 
-  <!-- <h3>Nhập file câu hỏi (.docx):</h3>
-  <input type="file" id="docxFile" accept=".docx" />
-
-  <button id="convertButton">⚙️ Xuất ra file JSON</button> -->
+  <h3>Dán đuôi link video (.mp4):</h3>
+  <input type="text" id="videoTail" placeholder="dot_8/.../videochuong.../Video....mp4" />
+  <button id="convertSlideUrl">📎 Chuyển sang link Slide</button>
 
   <script src="popup.js"></script>
-  <!-- <script>
-    document.getElementById("convertButton").addEventListener("click", () => {
-      const fileInput = document.getElementById("docxFile");
-      const file = fileInput.files[0];
-
-      if (!file) {
-        alert("Vui lòng chọn file .docx trước.");
-        return;
-      }
-
-      // Gửi file đến backend để xử lý (nếu có Python backend) — chỉ hoạt động khi bạn chạy server
-      alert("⚙️ Tính năng này cần tích hợp backend Python để hoạt động.\nVui lòng chạy convert_docx_to_json2.py thủ công hoặc tích hợp thêm backend.");
-    });
-  </script> -->
 </body>
 </html>
-

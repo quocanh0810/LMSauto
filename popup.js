@@ -30,7 +30,6 @@ document.getElementById("fillButton").addEventListener("click", async () => {
         }
 
         try {
-          // 1. Điền tên câu hỏi dưới dạng "01", "02", ...
           const nameInput = document.querySelector("#id_name");
           if (nameInput) {
             nameInput.value = cauhoi.stt.toString().padStart(2, "0");
@@ -38,13 +37,11 @@ document.getElementById("fillButton").addEventListener("click", async () => {
             nameInput.dispatchEvent(new Event("blur"));
           }
 
-          // 2. Điền nội dung câu hỏi
           simulateCleanTextEdit(
             document.querySelector("#id_questiontexteditable"),
             cauhoi.noidung
           );
 
-          // 3. Điền nội dung các đáp án
           const answers = [
             "#id_answer_0editable",
             "#id_answer_1editable",
@@ -59,7 +56,6 @@ document.getElementById("fillButton").addEventListener("click", async () => {
             );
           });
 
-          // 4. Gán đáp án đúng
           const correctIndex = { A: 0, B: 1, C: 2, D: 3 }[cauhoi.dapandung.toUpperCase()];
           for (let i = 0; i < 4; i++) {
             const select = document.querySelector(`#id_fraction_${i}`);
@@ -72,6 +68,41 @@ document.getElementById("fillButton").addEventListener("click", async () => {
         } catch (e) {
           alert("Lỗi khi điền dữ liệu: " + e.message);
         }
+      }
+    });
+  });
+});
+
+document.getElementById("convertSlideUrl").addEventListener("click", () => {
+  const tail = document.getElementById("videoTail").value.trim();
+  if (!tail) {
+    alert("Vui lòng dán đuôi đường dẫn video .mp4");
+    return;
+  }
+
+  const fullVideoUrl = "https://cdn-storage-static.tmu.edu.vn/dhtm-lms-prod/" + tail;
+
+  // Xử lý chính xác viết hoa "Slide"
+  const fullSlideUrl = fullVideoUrl
+    .replace(/videochuong/gi, "slidechuong") // đổi thư mục
+    .replace(/\/Video/, "/Slide")            // đổi tên file đầu "Video" -> "Slide"
+    .replace(".mp4", ".pdf");                // đổi đuôi
+
+  chrome.tabs.query({ active: true, currentWindow: true }, ([tab]) => {
+    chrome.scripting.executeScript({
+      target: { tabId: tab.id },
+      args: [fullSlideUrl],
+      func: (url) => {
+        const input = document.querySelector("#id_externalurl");
+        if (!input) {
+          alert("Không tìm thấy ô nhập URL!");
+          return;
+        }
+
+        input.value = url;
+        input.dispatchEvent(new Event("input", { bubbles: true }));
+        input.dispatchEvent(new Event("change", { bubbles: true }));
+        input.dispatchEvent(new Event("blur"));
       }
     });
   });
