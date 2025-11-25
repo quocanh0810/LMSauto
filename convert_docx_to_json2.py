@@ -69,7 +69,7 @@ def parse_questions(docx_path, output_json_path):
     with open(output_json_path, "w", encoding="utf-8") as f:
         json.dump(questions, f, ensure_ascii=False, indent=2)
 
-    print(f"\n✅ Đã chuyển {len(questions)} câu hỏi hợp lệ sang {output_json_path}")
+    print(f"\nĐã chuyển {len(questions)} câu hỏi hợp lệ sang {output_json_path}")
 
 # Chạy thử
 if __name__ == "__main__":

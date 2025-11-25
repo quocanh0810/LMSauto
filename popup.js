@@ -6,7 +6,7 @@ document.getElementById("fillButton").addEventListener("click", async () => {
     return;
   }
 
-  const response = await fetch(chrome.runtime.getURL("questions3.json"));
+  const response = await fetch(chrome.runtime.getURL("questions5.json"));
   const data = await response.json();
   const cauhoi = data.find(q => q.stt === stt);
 
@@ -83,10 +83,13 @@ document.getElementById("convertSlideUrl").addEventListener("click", () => {
   const fullVideoUrl = "https://cdn-storage-static.tmu.edu.vn/dhtm-lms-prod/" + tail;
 
   // Xử lý chính xác viết hoa "Slide"
-  const fullSlideUrl = fullVideoUrl
-    .replace(/videochuong/gi, "slidechuong") // đổi thư mục
-    .replace(/\/Video/, "/Slide")            // đổi tên file đầu "Video" -> "Slide"
-    .replace(".mp4", ".pdf");                // đổi đuôi
+const fullSlideUrl = fullVideoUrl
+    // 1) Đổi thư mục /video/ hoặc /videochuong/ thành /slide/
+    .replace(/\/(video|videochuong)\//gi, "/slide/")
+    // 2) Đổi tiền tố tên file "/Video" (đứng trước số) thành "/Slide"
+    .replace(/\/Video(?=\d)/, "/Slide")
+    // 3) Đổi đuôi
+    .replace(/\.mp4$/i, ".pdf");
 
   chrome.tabs.query({ active: true, currentWindow: true }, ([tab]) => {
     chrome.scripting.executeScript({

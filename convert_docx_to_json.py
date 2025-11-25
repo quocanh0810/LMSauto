@@ -8,7 +8,7 @@ import re
 #Đáp án
 
 def extract_options_from_cell(cell):
-    """Tách các phương án A–D từ ô cell trong bảng Word."""
+    # Tách các phương án A–D từ ô cell trong bảng Word.
     full_text = ""
     for para in cell.paragraphs:
         full_text += para.text + "\n"
@@ -66,16 +66,16 @@ def parse_questions_from_table(docx_path, output_json_path):
                 if len(phuongan_dict) == 4:
                     questions.append(cau_hoi)
                 else:
-                    print(f"⚠️ Câu {stt} thiếu phương án (có {sorted(phuongan_dict.keys())})")
+                    print(f"Câu {stt} thiếu phương án (có {sorted(phuongan_dict.keys())})")
 
             except Exception as e:
-                print(f"❌ Lỗi dòng {cells[0].text.strip()}: {e}")
+                print(f"Lỗi dòng {cells[0].text.strip()}: {e}")
                 continue
 
     with open(output_json_path, "w", encoding="utf-8") as f:
         json.dump(questions, f, ensure_ascii=False, indent=2)
 
-    print(f"\n✅ Đã chuyển {len(questions)} câu hỏi hợp lệ sang {output_json_path}")
+    print(f"\nĐã chuyển {len(questions)} câu hỏi hợp lệ sang {output_json_path}")
 
 # Chạy thử
 if __name__ == "__main__":
