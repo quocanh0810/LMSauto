@@ -82,7 +82,6 @@ document.getElementById("convertSlideUrl").addEventListener("click", () => {
 
   const fullVideoUrl = "https://cdn-storage-static.tmu.edu.vn/dhtm-lms-prod/" + tail;
 
-  // Xử lý chính xác viết hoa "Slide"
 const fullSlideUrl = fullVideoUrl
     // 1) Đổi thư mục /video/ hoặc /videochuong/ thành /slide/
     .replace(/\/(video|videochuong)\//gi, "/slide/")
@@ -98,7 +97,7 @@ const fullSlideUrl = fullVideoUrl
       func: (url) => {
         const input = document.querySelector("#id_externalurl");
         if (!input) {
-          alert("Không tìm thấy ô nhập URL!");
+          alert("Không tìm thấy ô nhập URL");
           return;
         }
 
