@@ -5,7 +5,6 @@ import re
 # Cấu trúc bảng:
 # STT | Nội dung câu hỏi | Phương án | Đáp án
 
-
 def extract_options_from_cell(cell):
     paras = [p.text.strip() for p in cell.paragraphs if p.text.strip()]
     if not paras:
@@ -79,14 +78,14 @@ def parse_questions_from_table(docx_path, output_json_path):
     document = Document(docx_path)
     questions = []
 
-    global_stt_counter = 0  # Đếm tổng số câu đã parse (cross-table)
+    global_stt_counter = 0  # Đếm tổng số câu đã parse
 
     for table_idx, table in enumerate(document.tables):
-        # Bỏ qua dòng tiêu đề, duyệt từ dòng thứ 2
+        # Bỏ qua dòng tiêu đề
         for row_idx, row in enumerate(table.rows[1:], start=1):
             cells = row.cells
 
-            # Bảo vệ: nếu số cột < 4 thì bỏ qua
+            # cột < 4 thì bỏ qua
             if len(cells) < 4:
                 print(f"[Table {table_idx+1} Row {row_idx+1}] Bỏ qua vì số cột < 4")
                 continue
@@ -97,7 +96,6 @@ def parse_questions_from_table(docx_path, output_json_path):
                 options_cell = cells[2]
                 dap_an_raw = cells[3].text
 
-                # STT: cố gắng lấy số trong ô 0, nếu không được → dùng counter
                 stt = safe_parse_stt(raw_stt, default=None)
                 if stt is None:
                     global_stt_counter += 1
@@ -120,7 +118,6 @@ def parse_questions_from_table(docx_path, output_json_path):
                     "dapandung": dap_an
                 }
 
-                # Kiểm tra tối thiểu: phải có ít nhất 2 phương án, và có đáp án A–D
                 non_empty_opts = [k for k, v in phuongan_dict.items() if v.strip()]
                 if len(non_empty_opts) >= 2 and dap_an in ["A", "B", "C", "D"]:
                     questions.append(cau_hoi)
