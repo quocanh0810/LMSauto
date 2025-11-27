@@ -6,7 +6,7 @@ document.getElementById("fillButton").addEventListener("click", async () => {
     return;
   }
 
-  const response = await fetch(chrome.runtime.getURL("questions5.json"));
+  const response = await fetch(chrome.runtime.getURL("output/questions5.json"));
   const data = await response.json();
   const cauhoi = data.find(q => q.stt === stt);
 
