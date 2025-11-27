@@ -1,0 +1,182 @@
+[
+  {
+    "stt": 1,
+    "noidung": "Điền vào chỗ trống: Khách sạn (hotel) là cơ sở lưu trú du lịch, có quy mô từ __________, đảm bảo chất lượng về cơ sở vật chất, trang thiết bị và dịch vụ cần thiết phục vụ khách lưu trú và sử dụng dịch vụ (Theo Thông tư số 88/2008/TT-BVHTTDL của Bộ Văn hóa, Thể thao và Du lịch).",
+    "a": "10 buồng ngủ trở lên",
+    "b": "20 buồng ngủ trở lên",
+    "c": "30 buồng ngủ trở lên",
+    "d": "50 buồng ngủ trở lên",
+    "dapandung": "A"
+  },
+  {
+    "stt": 2,
+    "noidung": "Đặc điểm về quy mô “Số lượng phòng ít, chủng loại ít, giá thấp” là đặc điểm của loại hình kinh doanh lưu trú nào?",
+    "a": "Khách sạn",
+    "b": "Tàu thủy lưu trú du lịch",
+    "c": "Nhà nghỉ du lịch",
+    "d": "Biệt thự du lịch",
+    "dapandung": "C"
+  },
+  {
+    "stt": 3,
+    "noidung": "Phân loại khách sạn gồm “Khách sạn thương mại; Khách sạn du lịch; Khách sạn căn hộ cho thuê; Khách sạn sòng bạc” là căn cứ dựa trên dựa trên căn cứ phân loại khách sạn nào?",
+    "a": "Dựa vào quy mô",
+    "b": "Dựa vào vị trí địa lý",
+    "c": "Dựa vào mức độ cung cấp dịch vụ",
+    "d": "Dựa vào thị trường khách mục tiêu",
+    "dapandung": "D"
+  },
+  {
+    "stt": 4,
+    "noidung": "Ai là cơ quan có thẩm quyền công nhận hạng sao cho khách sạn tại Việt Nam?",
+    "a": "Sở Du lịch các tỉnh, thành phố trực thuộc Trung ương",
+    "b": "Bộ Văn hóa, Thể thao và Du lịch",
+    "c": "Hiệp hội Du lịch Việt Nam",
+    "d": "Cục du lịch Quốc gia Việt Nam",
+    "dapandung": "D"
+  },
+  {
+    "stt": 5,
+    "noidung": "Đặc điểm “thủ công nghiệp phát triển, giao thương phát triển, do vậy kinh doanh lưu trú phát triển ở gần các trung tâm thương mại” là thuộc thời kỳ nào trong lịch sử hình thành và phát triển kinh doanh lưu trú trên thế giới?",
+    "a": "Thời kỳ chiếm hữu nô lệ",
+    "b": "Thời kỳ phong kiến",
+    "c": "Thời kỳ tư bản chủ nghĩa",
+    "d": "Thời kỳ giữa hai cuộc chiến tranh (1918-1939)",
+    "dapandung": "B"
+  },
+  {
+    "stt": 6,
+    "noidung": "Đặc điểm “Số lượng các cơ sở kinh doanh lưu trú không nhiều, chủ yếu là khách sạn, được xây dựng từ thời Pháp thuộc, tập trung tại các thành phố lớn hoặc tại các khu có danh lam, thắng cảnh” là thuộc giai đoạn nào trong lịch sử hình thành và phát triển kinh doanh lưu trú tại Việt Nam?",
+    "a": "Giai đoạn từ 1960-1975",
+    "b": "Giai đoạn từ 1975-1990",
+    "c": "Giai đoạn từ 1991-2001",
+    "d": "Giai đoạn từ 2001-nay",
+    "dapandung": "B"
+  },
+  {
+    "stt": 7,
+    "noidung": "Xếp hạng khách sạn mang lại lợi ích nào sau đây cho nhà đầu tư?",
+    "a": "Làm giảm chi phí đầu tư ban đầu",
+    "b": "Giúp nhà đầu tư dễ dàng xác định cơ hội đầu tư",
+    "c": "Xác định thời gian hoàn vốn nhanh hơn",
+    "d": "Loại bỏ rủi ro trong quá trình kinh doanh",
+    "dapandung": "B"
+  },
+  {
+    "stt": 8,
+    "noidung": "Kết quả xếp hạng khách sạn có vai trò gì trong việc xây dựng hệ thống giá cả dịch vụ?",
+    "a": "Là cơ sở để giảm giá các dịch vụ trong khách sạn",
+    "b": "Là cơ sở để xây dựng giá cả phù hợp với từng loại hạng khách sạn",
+    "c": "Là cơ sở để loại bỏ sự chênh lệch giá giữa các khách sạn",
+    "d": "Là cơ sở để tăng giá các dịch vụ trong khách sạn",
+    "dapandung": "B"
+  },
+  {
+    "stt": 9,
+    "noidung": "Theo quy định hiện hành ở Việt Nam, hệ thống xếp hạng khách sạn được chia thành bao nhiêu hạng sao?",
+    "a": "3 hạng sao (1 sao, 2 sao, 3 sao)",
+    "b": "4 hạng sao (1 sao đến 4 sao)",
+    "c": "5 hạng sao (1 sao đến 5 sao)",
+    "d": "6 hạng sao (1 sao đến 6 sao)",
+    "dapandung": "C"
+  },
+  {
+    "stt": 10,
+    "noidung": "Đâu KHÔNG phải là khách sạn được phân loại dựa theo mức độ cung cấp dịch vụ?",
+    "a": "Khách sạn cao cấp sang trọng",
+    "b": "Khách sạn với dịch vụ đầy đủ",
+    "c": "Khách sạn cung cấp số lượng các dịch vụ hạn chế",
+    "d": "Khách sạn thương mại",
+    "dapandung": "D"
+  },
+  {
+    "stt": 11,
+    "noidung": "Một khách hàng đến nhận phòng tại khách sạn nhưng không hài lòng với chất lượng dịch vụ vì nhân viên có thái độ thiếu chuyên nghiệp. Điều này thể hiện đặc điểm nào của sản phẩm khách sạn?",
+    "a": "Tính vô hình",
+    "b": "Tính không thể lưu kho",
+    "c": "Tính không đồng nhất",
+    "d": "Tính tổng hợp",
+    "dapandung": "C"
+  },
+  {
+    "stt": 12,
+    "noidung": "Một khách sạn cao cấp tại trung tâm thành phố không thể sử dụng phòng trống trong đêm qua để tạo doanh thu hôm nay. Đặc điểm nào của sản phẩm khách sạn được thể hiện ở đây?",
+    "a": "Tính vô hình",
+    "b": "Tính không thể lưu kho",
+    "c": "Tính không đồng nhất",
+    "d": "Tính tổng hợp",
+    "dapandung": "B"
+  },
+  {
+    "stt": 13,
+    "noidung": "Một khách sạn tại một khu vực ven biển có lượng khách giảm mạnh vào mùa đông hàng năm. Đặc điểm nào của kinh doanh khách sạn được thể hiện trong trường hợp này?",
+    "a": "Kinh doanh khách sạn mang tính liên tục",
+    "b": "Kinh doanh khách sạn phụ thuộc vào tài nguyên du lịch",
+    "c": "Kinh doanh khách sạn đòi hỏi vốn đầu tư lớn",
+    "d": "Kinh doanh khách sạn chịu tác động của quy luật cung cầu",
+    "dapandung": "D"
+  },
+  {
+    "stt": 14,
+    "noidung": "Khách sạn hoạt động 24/7 để đáp ứng nhu cầu của khách từ nhiều múi giờ khác nhau. Đặc điểm nào của kinh doanh khách sạn được thể hiện trong trường hợp này?",
+    "a": "Tính liên tục trong kinh doanh khách sạn",
+    "b": "Tính đa dạng đối tượng khách hàng",
+    "c": "Tính chọn lọc đối tượng khách",
+    "d": "Tính độc lập tương đối của các bộ phận nghiệp vụ",
+    "dapandung": "A"
+  },
+  {
+    "stt": 15,
+    "noidung": "Một khách sạn quốc tế vừa tổ chức hội nghị cho các doanh nghiệp, vừa phục vụ khách lẻ đi du lịch cùng gia đình. Đặc điểm nào của kinh doanh khách sạn được thể hiện?",
+    "a": "Kinh doanh khách sạn chọn lọc đối tượng khách",
+    "b": "Kinh doanh khách sạn đòi hỏi dung lượng lao động trực tiếp cao",
+    "c": "Kinh doanh khách sạn phục vụ đa dạng đối tượng khách",
+    "d": "Kinh doanh khách sạn chịu tác động của tài nguyên du lịch",
+    "dapandung": "C"
+  },
+  {
+    "stt": 16,
+    "noidung": "So với xếp hạng khách sạn tại việt Nam, thì xếp hạng khách sạn trên thế giới tập trung vào tiêu chí nào?",
+    "a": "Cơ sở vật chất",
+    "b": "Vị trí, kiến trúc",
+    "c": "Trang thiết bị, tiện nghi phục vụ",
+    "d": "Chất lượng dịch vụ",
+    "dapandung": "D"
+  },
+  {
+    "stt": 17,
+    "noidung": "Điểm khác biệt lớn nhất giữa sản phẩm khách sạn và sản phẩm hữu hình là gì?",
+    "a": "Khách hàng không thể kiểm tra chất lượng trước khi tiêu dùng",
+    "b": "Có thể lưu trữ để sử dụng sau này",
+    "c": "Sản phẩm mang tính đồng nhất",
+    "d": "Có quá trình sản xuất và quá trình tiêu dùng diễn ra đồng thời",
+    "dapandung": "A"
+  },
+  {
+    "stt": 18,
+    "noidung": "Để giảm bớt nhược điểm từ tính vô hình của sản phẩm, một khách sạn nên áp dụng biện pháp nào sau đây?",
+    "a": "Cung cấp hình ảnh và video chi tiết về các dịch vụ trên website",
+    "b": "Giảm giá dịch vụ cho khách hàng mới",
+    "c": "Cam kết hoàn tiền nếu khách không hài lòng",
+    "d": "Đầu tư vào các trang thiết bị hữu hình như nội thất phòng khách",
+    "dapandung": "A"
+  },
+  {
+    "stt": 19,
+    "noidung": "Nếu một khách sạn ở khu vực đô thị bị ảnh hưởng bởi việc đối thủ cung cấp dịch vụ tương tự với giá thấp hơn, cách xử lý tốt nhất là gì?",
+    "a": "Hạ giá phòng để cạnh tranh",
+    "b": "Tập trung vào nâng cao trải nghiệm khách hàng với các dịch vụ giá trị gia tăng",
+    "c": "Giảm chi phí nhân viên để duy trì lợi nhuận",
+    "d": "Tăng số lượng phòng cho thuê dài hạn",
+    "dapandung": "B"
+  },
+  {
+    "stt": 20,
+    "noidung": "Một khách sạn muốn giảm đặc điểm “tính không đồng nhất” của sản phẩm khách sạn, khách sạn cần áp dụng biện pháp gì?",
+    "a": "Áp dụng tiêu chuẩn hóa dịch vụ và quy trình làm việc",
+    "b": "Chỉ phục vụ một số đối tượng khách hàng đặc thù",
+    "c": "Cắt giảm chi phí nhân sự để tập trung vào đầu tư cơ sở vật chất",
+    "d": "Tăng giá để xây dựng hình ảnh cao cấp",
+    "dapandung": "A"
+  }
+]
